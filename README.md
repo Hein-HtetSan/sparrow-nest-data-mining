@@ -1,5 +1,17 @@
 # Sparrow Nest Data Mining
 
+## Contributors
+
+- Hein Htet San
+
+## Supervisor
+
+- Prof. Hsu Myat Mo
+
+## Institution
+
+- University of Computer Studies, Yangon
+
 ## Introduction
 
 This project analyzes 657 Eurasian Tree Sparrow building records from China. It combines descriptive statistics, association rules, clustering, classification and regression, then tests the selected predictive models on unseen spatial groups.
@@ -10,6 +22,7 @@ This project analyzes 657 Eurasian Tree Sparrow building records from China. It 
 |---|---|
 | Presentation website | [Open SparrowScope](https://sites-project.heinhtetsan33455.workers.dev) |
 | Streamlit model lab | [Test the models](https://sparrow-nest-data-mining.streamlit.app) |
+| Project Book | [View Documentation](documentation/Eurasian_Tree_Sparrow_Data_Mining_Project.docx) |
 | GitHub repository | [View source](https://github.com/Hein-HtetSan/sparrow-nest-data-mining) |
 
 ## Project Overview
