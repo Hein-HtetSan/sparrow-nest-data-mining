@@ -23,6 +23,7 @@ This project analyzes 657 Eurasian Tree Sparrow building records from China. It 
 | Presentation website | [Open SparrowScope](https://sites-project.heinhtetsan33455.workers.dev) |
 | Streamlit model lab | [Test the models](https://sparrow-nest-data-mining.streamlit.app) |
 | Project book | [PDF](documentation/Eurasian_Tree_Sparrow_Data_Mining_Project.pdf) · [Word](documentation/Eurasian_Tree_Sparrow_Data_Mining_Project.docx) |
+| Hosted presentation | [Download PPTX](https://sites-project.heinhtetsan33455.workers.dev/downloads/Sparrow_Cluster_Profiles.pptx) |
 | GitHub repository | [View source](https://github.com/Hein-HtetSan/sparrow-nest-data-mining) |
 
 ## Project Overview
@@ -34,6 +35,8 @@ One dataset row represents one building. Seven building and environmental variab
 - Temperature, precipitation and wind
 
 The classification target is `Lower` for 1–4 nests and `Higher` for 5 or more nests. Regression predicts the exact `NestCount`.
+
+In the simulator, the displayed record number is only the building's position in the interface. `Building#` and `ID` identify the observed building and survey site; neither identifier is used as a model feature.
 
 ## Notebook Workflow
 

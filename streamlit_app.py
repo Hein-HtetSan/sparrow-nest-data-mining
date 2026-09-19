@@ -49,15 +49,25 @@ def load_project():
 
 
 def input_record(data, train, key):
-    source = st.radio("Input source", ["Dataset row", "Custom values"], horizontal=True, key=f"source-{key}")
-    row_number = st.number_input("Dataset row", 1, len(data), 1, key=f"row-{key}")
-    sample = data.iloc[int(row_number) - 1]
+    source = st.radio("Input source", ["Observed dataset record", "Custom values"], horizontal=True, key=f"source-{key}")
+    if source == "Observed dataset record":
+        position = st.selectbox(
+            "Observed building record",
+            range(len(data)),
+            format_func=lambda index: f"Record {index + 1} · Building {data.iloc[index]['Building#']} · Site ID {data.iloc[index]['ID']} · {data.iloc[index]['Split']}",
+            key=f"record-{key}",
+        )
+        sample = data.iloc[position]
+        st.caption("The record number is only its position in this app. Each record is one observed building; Building# and Site ID are identifiers and are not model features.")
+    else:
+        sample = data.iloc[0]
+        st.caption("Custom values create a hypothetical building, so no observed NestCount is available for comparison.")
     ranges = train[FEATURES].agg(["min", "median", "max"])
     values = {}
     columns = st.columns(4)
     for index, feature in enumerate(FEATURES):
-        default = float(sample[feature]) if source == "Dataset row" else float(ranges.at["median", feature])
-        values[feature] = columns[index % 4].number_input(LABELS[feature], min_value=float(ranges.at["min", feature]), max_value=float(ranges.at["max", feature]), value=default, key=f"{key}-{feature}")
+        default = float(sample[feature]) if source == "Observed dataset record" else float(ranges.at["median", feature])
+        values[feature] = columns[index % 4].number_input(LABELS[feature], min_value=float(ranges.at["min", feature]), max_value=float(ranges.at["max", feature]), value=default, disabled=source == "Observed dataset record", key=f"{key}-{feature}")
     return pd.DataFrame([values], columns=FEATURES), sample, source
 
 
@@ -123,7 +133,7 @@ with prediction_tab:
     if st.button("Run selected model", type="primary", use_container_width=True):
         model = available[model_name]
         prediction = model.predict(row)[0]
-        actual = int(sample.NestCount) if source == "Dataset row" else None
+        actual = int(sample.NestCount) if source == "Observed dataset record" else None
         if task == "Classification":
             probability = float(model.predict_proba(row)[0, 1]) if hasattr(model, "predict_proba") else None
             a, b, c = st.columns(3)

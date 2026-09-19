@@ -55,7 +55,7 @@ function Slide({ slide }: { slide: (typeof slides)[number] }) {
     {slide.type === 'models' && <><ModelDiagram regression={slide.title.includes('exact')}/><div className="evidence-grid"><div className="model-table">{slide.models.map(([name,why,result])=><div key={name}><strong>{name}</strong><span>{why}</span><b>{result}</b></div>)}</div><img src={slide.image} alt={`${slide.title} notebook chart`}/></div><p className="takeaway">{slide.note}</p></>}
     {slide.type === 'evaluation' && <><ModelDiagram evaluation/><div className="evaluation-grid"><div className="metrics">{slide.metrics.map(([value,label])=><div key={label}><strong>{value}</strong><span>{label}</span></div>)}</div><img src={slide.image} alt="Final classification confusion matrix"/></div><blockquote>{slide.body}</blockquote></>}
     {slide.type === 'demo' && <ModelDemo/>}
-    {slide.type === 'end' && <ul className="conclusion-list">{slide.bullets.map(x=><li key={x}>{x}</li>)}</ul>}
+    {slide.type === 'end' && <><ul className="conclusion-list">{slide.bullets.map(x=><li key={x}>{x}</li>)}</ul><div className="resource-links"><a href="https://sparrow-nest-data-mining.streamlit.app/" target="_blank" rel="noreferrer">Open model simulator</a><a href="/downloads/Sparrow_Cluster_Profiles.pptx" download>Download PowerPoint</a><a href="/downloads/Eurasian_Tree_Sparrow_Data_Mining_Project.pdf" target="_blank" rel="noreferrer">Open project book</a></div></>}
   </section>;
 }
 
