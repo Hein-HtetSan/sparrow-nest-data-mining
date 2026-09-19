@@ -54,7 +54,7 @@ def input_record(data, train, key):
         position = st.selectbox(
             "Observed building record",
             range(len(data)),
-            format_func=lambda index: f"Record {index + 1} · Building {data.iloc[index]['Building#']} · Site ID {data.iloc[index]['ID']} · {data.iloc[index]['Split']}",
+            format_func=lambda index: f"Record {index + 1} · {data.iloc[index]['Building#']} · Site ID {data.iloc[index]['ID']} · {data.iloc[index]['Split']}",
             key=f"record-{key}",
         )
         sample = data.iloc[position]
