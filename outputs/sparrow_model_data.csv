@@ -1,0 +1,658 @@
+﻿SourceRowIndex,Building#,ID,BuildingHeight,BuildingWidth,Altitude,AveNoise,temp,prec,win,NestCount,HigherNestCount,Split
+0,Building 11,11640,30.0,56.0,47.0,32.0,19.52,77.17,2.45,17,1,train
+1,Building 3,11640,27.0,67.0,47.0,35.0,19.52,77.17,2.45,13,1,train
+2,Building 8-1,11640,30.0,56.0,47.0,44.0,19.52,77.17,2.45,10,1,train
+3,Building 8-2,11640,30.0,56.0,47.0,47.0,19.52,77.17,2.45,13,1,train
+4,Building 9-1,11640,30.0,56.0,47.0,34.0,19.52,77.17,2.45,9,1,train
+5,Building 9-2,11640,30.0,56.0,47.0,34.0,19.52,77.17,2.45,6,1,train
+6,SOHO,10237,53.5,75.0,2236.0,51.0,12.15,47.83,2.6,6,1,train
+7,Aerding Community Building 25,11041,18.0,50.0,1049.0,49.0,15.4,37.33,3.08,3,0,train
+8,Aerding Community Building 26,11041,24.5,20.0,1033.0,56.0,15.4,37.33,3.08,2,0,train
+9,Aerding Community Building 29,11041,18.0,75.0,1056.0,54.0,15.47,38.0,3.13,4,0,train
+10,Aerding Community Building 35,11041,18.0,60.0,1048.0,48.0,15.4,37.33,3.08,5,1,train
+11,Anding Heshi Hotel,10536,12.0,35.0,1865.0,45.0,12.22,51.33,2.12,2,0,train
+12,Antian Community Building 11,10436,15.0,40.0,1499.14,58.0,16.12,43.0,1.82,3,0,train
+13,Baiyin District Zhaoshangju Family Quarters,10437,21.0,60.0,1658.0,53.0,15.08,30.0,2.47,4,0,train
+14,Baiyin Community Building 14,10437,18.0,70.0,1704.8,48.0,14.87,30.17,2.45,3,0,train
+15,Baiyin Community Building 16,10437,18.0,60.0,1689.66,48.0,14.87,30.17,2.45,2,0,train
+16,Baihe Jiayuan 1,11339,18.0,75.0,1045.0,49.0,15.0,55.83,2.78,6,1,train
+17,Baihe Jiayuan 2,11339,18.0,75.0,1045.0,49.0,15.0,55.83,2.78,7,1,train
+18,Baiwang Moli Garden,11640,33.0,68.0,50.0,33.0,19.5,77.17,2.47,12,1,train
+19,Baoqing Jiayuan Building 14,10638,20.0,60.0,1080.0,47.0,16.35,25.83,2.68,5,1,train
+20,Baoqing Jiayuan Building 15,10638,17.5,60.0,1093.0,58.0,16.35,25.83,2.68,8,1,train
+21,Baoqing Jiayuan Building 3,10638,21.5,50.0,1079.0,61.0,16.35,25.83,2.68,4,0,train
+22,Beiguan Jingcheng 1,11538,108.0,35.0,58.0,55.0,20.12,66.0,2.4,12,1,train
+23,Beiguan Jingcheng 2,11538,108.0,35.0,58.0,55.0,20.12,66.0,2.4,30,1,train
+24,Beijing Haidian Yongfeng Nonggongshang Corporation,11640,19.8,60.0,48.0,54.0,19.5,76.5,2.43,10,1,train
+25,Bihai Garden 1,11339,18.0,74.0,1046.0,57.0,14.9,55.17,2.8,7,1,train
+26,Bihai Garden 2,11339,18.0,57.0,1046.0,57.0,14.9,55.17,2.8,6,1,train
+27,Bilü Community 1,12040,15.0,30.0,3.0,52.0,16.47,84.67,4.12,9,1,test
+28,Bilü Community 2,12040,15.0,30.0,3.0,52.0,16.47,84.67,4.12,1,0,test
+29,Bishui Lanwan Building 17,11438,33.0,6.0,72.0,64.0,20.2,66.5,2.3,3,0,train
+30,Bishui Lanwan Building 18,11438,36.0,50.0,72.0,64.0,20.2,66.5,2.3,8,1,train
+31,Binhe West Road No.20,11138,18.0,35.0,920.0,62.0,16.8,58.17,2.48,3,0,train
+32,Binhe Yuexiu 1,11538,78.0,40.0,51.0,46.0,20.28,65.17,2.4,24,1,train
+33,Binhe Yuexiu 2,11538,78.0,40.0,51.0,46.0,20.28,65.17,2.4,14,1,train
+34,Binjiang Garden,11138,48.0,70.0,909.0,56.0,16.8,58.0,2.5,12,1,train
+35,Binxi Garden Block B,11338,34.0,80.0,785.0,43.0,16.97,52.33,2.47,7,1,train
+36,Binxi Garden Block C,11338,76.0,80.0,773.0,51.0,16.97,52.33,2.47,23,1,train
+37,Buxili 101,11840,14.5,60.0,16.0,40.0,18.92,89.0,2.83,1,0,test
+38,Buxili 102,11840,14.5,60.0,16.0,40.0,18.92,89.0,2.83,1,0,test
+39,Caizheng Ganbu Center Family Quarters 1,11340,18.5,70.0,1089.0,58.0,14.95,49.5,3.03,6,1,test
+40,Caizheng Ganbu Center Family Quarters 2,11340,18.5,70.0,1089.0,58.0,14.95,49.5,3.03,5,1,test
+41,Caiqiao Xincun Building 19,10538,15.0,30.0,1194.07,46.0,16.02,24.17,2.67,1,0,train
+42,Caiqiao Xincun Building 22,10538,15.0,40.0,1186.312,45.0,16.02,24.17,2.67,8,1,train
+43,Caiqiao Xincun Building 5,10538,18.0,20.0,1193.29,58.0,16.02,24.17,2.67,4,0,train
+44,Changsheng North Street Building 14,11538,15.0,45.0,44.0,47.0,20.15,61.5,2.43,8,1,train
+45,Changsheng North Street Building 16,11538,15.0,45.0,42.0,52.0,20.15,61.5,2.43,9,1,train
+46,Changsheng North Street Building 21,11538,15.0,40.0,45.0,49.0,20.15,61.5,2.43,7,1,train
+47,Changning Community,11138,21.0,55.0,908.0,53.0,16.8,59.83,2.42,3,0,train
+48,Chaoyang Jiayuan 1,11741,18.0,87.0,639.0,53.0,15.2,62.83,2.7,4,0,train
+49,Chaoyang Jiayuan 2,11741,18.0,87.0,639.0,53.0,15.2,62.83,2.7,3,0,train
+50,Chaoyang Jiayuan 3,11741,18.0,87.0,639.0,53.0,15.2,62.83,2.7,2,0,train
+51,Chenguang Jiayuan 10,11840,18.0,55.0,0.0,40.0,18.9,89.5,2.95,7,1,test
+52,Chenguang Jiayuan 12,11840,18.0,55.0,0.0,40.0,18.9,89.5,2.95,2,0,test
+53,Chenguang Jiayuan 13,11840,18.0,55.0,0.0,40.0,18.9,89.5,2.95,1,0,test
+54,Chenguang Jiayuan 14,11840,18.0,60.0,0.0,40.0,18.9,89.5,2.95,10,1,test
+55,Chenguang Jiayuan 15,11840,18.0,60.0,0.0,40.0,18.9,89.5,2.95,1,0,test
+56,Chenguang Jiayuan 4,11840,18.0,55.0,0.0,40.0,18.9,89.5,2.95,3,0,test
+57,Chenguang Jiayuan 8,11840,18.0,60.0,0.0,40.0,18.9,89.5,2.95,2,0,test
+58,Chenxi Garden,11438,18.0,69.0,701.0,46.0,17.52,58.83,2.53,6,1,train
+59,Chenxin Garden Phase I 12,11340,57.0,50.0,1035.0,57.0,15.03,49.0,3.02,5,1,test
+60,Chenxin Garden Phase I 13,11340,48.0,65.0,1035.0,56.0,15.03,49.0,3.02,14,1,test
+61,Chenxin Garden Phase I 14,11340,21.0,30.0,1031.0,54.0,15.03,49.0,3.02,12,1,test
+62,Chengdong Community,11138,18.0,80.0,921.0,50.0,16.53,59.5,2.43,4,0,train
+63,City Garden,11437,20.1,62.5,253.4,50.2,19.3,64.22,2.555,16,1,train
+64,Shengdi Lijiang Building 3,11438,36.0,40.0,89.0,60.0,20.12,66.17,2.32,46,1,train
+65,Shengdi Lijiang Building 4,11438,54.0,50.0,89.0,71.0,20.12,66.17,2.32,50,1,train
+66,Chixin Community Building 22,11340,19.0,60.0,1036.0,46.0,14.98,48.83,3.0,4,0,test
+67,Chunfeng Jiayuan,10635,24.0,60.0,1119.0,41.7,17.37,71.5,1.68,2,0,train
+68,Cuiyuan Court,11338,78.0,53.0,805.0,53.0,16.85,56.17,2.52,7,1,train
+69,Derong Dijing,11739,84.0,25.0,0.0,20.0,19.85,80.5,2.45,24,1,train
+70,Derong Garden,11438,63.0,56.0,652.0,50.0,17.8,58.67,2.55,10,1,train
+71,Deyejü Garden No.12,11438,21.0,40.0,690.0,57.0,17.77,59.0,2.57,1,0,train
+72,Deyejü Garden No.13,11438,21.0,40.0,690.0,57.0,17.77,59.0,2.57,3,0,train
+73,Dishuiju Community,11338,18.5,20.0,798.0,30.0,17.1,55.5,2.53,1,0,train
+74,Dianzi Chanpin Jianyansuo Family Quarters,11338,21.0,20.0,750.0,60.0,17.08,54.83,2.43,1,0,train
+75,Dongcheng Shui'an,11438,21.0,32.0,650.0,60.0,17.75,59.0,2.53,21,1,train
+76,Dongcheng Shui'an Building 3,11438,90.0,20.0,615.0,67.0,17.75,59.0,2.53,3,0,train
+77,Dongfang Garden B-1,10538,18.0,70.0,1200.76,56.0,16.22,24.83,2.43,4,0,train
+78,Dongfang Jiayuan Building 15,10538,18.5,50.0,1212.26,50.0,16.32,24.5,2.53,4,0,train
+79,Dongfang Jiayuan Building 16,10538,18.5,60.0,1194.63,58.0,16.32,24.5,2.53,8,1,train
+80,Dongfang Mingzhu City 1,12040,93.0,40.0,3.0,73.0,16.97,84.0,4.12,6,1,test
+81,Dongfang Mingzhu City 2,12040,93.0,40.0,3.0,73.0,16.97,84.0,4.12,2,0,test
+82,Dongfeng Community 1,11639,36.0,70.0,0.0,62.0,20.15,66.83,2.63,8,1,train
+83,Dongfeng Community 2,11639,36.0,70.0,0.0,59.0,20.15,66.83,2.63,1,0,train
+84,Dongguangli 1,12040,18.0,45.0,6.0,66.0,17.0,87.5,4.15,15,1,test
+85,Dongguangli 2,12040,18.0,45.0,6.0,66.0,17.0,87.5,4.15,5,1,test
+86,Donghuanli 1,12040,18.0,45.0,5.0,52.0,17.03,87.17,4.1,6,1,test
+87,Donghuanli 2,12040,18.0,45.0,5.0,52.0,17.03,87.17,4.1,3,0,test
+88,Dongsheng Community Building 9,10638,19.0,50.0,1068.0,56.0,16.25,25.17,2.68,14,1,train
+89,Dongxing Street No.50,10437,12.0,60.0,1685.0,51.0,15.08,30.0,2.47,2,0,train
+90,Dongyanwu Community,12040,18.0,45.0,1.0,56.0,17.03,87.17,4.1,17,1,test
+91,Dongyuan East Area,11438,21.0,25.0,671.0,47.0,17.77,59.0,2.57,8,1,train
+92,Erdian Community,11338,39.0,20.0,776.0,51.0,17.17,53.83,2.47,5,1,train
+93,Fangzhi Jinchukou Dormitory,11338,21.0,20.0,780.0,62.0,17.1,55.5,2.53,2,0,train
+94,Fangzhi Road No.155 Building 2,10437,21.0,40.0,1702.0,34.0,15.05,30.5,2.45,1,0,train
+95,Fangzhi Road No.155 Building 1,10437,24.0,20.0,1686.0,50.0,15.05,30.5,2.45,1,0,train
+96,Feitian Family Quarters Building 2,10436,18.0,50.0,1525.49,49.0,16.2,43.0,1.77,4,0,train
+97,Fenghuang City 10,11738,45.0,70.0,3.0,54.0,20.02,69.33,2.72,7,1,test
+98,Fenghuang City 2,11738,45.0,40.0,3.0,51.0,20.03,69.67,2.72,5,1,test
+99,Fenghuang City 9,11738,45.0,70.0,3.0,56.0,20.02,69.33,2.72,6,1,test
+100,Furong Garden Building 1,10638,18.0,50.0,1068.0,42.0,16.35,25.67,2.65,1,0,train
+101,Fumen Xiangxielishe,10635,30.0,21.0,1104.0,46.7,17.37,71.5,1.68,3,0,train
+102,Fuxingyuan Building 34,10538,18.0,50.0,1178.56,57.0,15.93,24.5,2.67,1,0,train
+103,Fuxingyuan Building 40,10538,18.0,60.0,1179.31,53.0,15.93,24.5,2.67,2,0,train
+104,Fuxingyuan Building 46,10538,18.0,60.0,1183.08,54.0,15.93,24.5,2.67,4,0,train
+105,Fuxingyuan Building 49,10538,31.0,45.0,1174.75,56.0,15.93,24.5,2.67,1,0,train
+106,Fuxingyuan Building 59,10538,31.0,60.0,1167.57,57.0,16.1,24.83,2.48,3,0,train
+107,Fufeng Jiayuan,12040,18.0,40.0,1.0,62.0,17.02,86.33,4.08,4,0,test
+108,Fuli City No.1,11438,54.0,40.0,670.0,57.0,17.77,59.0,2.57,12,1,train
+109,Fuli City No.2,11438,66.0,40.0,670.0,57.0,17.77,59.0,2.57,2,0,train
+110,Fuli Jianianhua,11438,78.0,40.0,687.0,54.0,17.7,59.67,2.47,19,1,train
+111,Fuqiang Community,11842,18.0,43.0,867.0,63.0,14.23,59.0,2.85,2,0,train
+112,Fuyan Hotel,10536,12.0,25.0,1917.0,56.0,12.22,51.33,2.12,1,0,train
+113,GreenTree Inn Hotel,11138,18.0,60.0,944.0,60.0,16.63,59.33,2.45,7,1,train
+114,Gengjiazhuang Residential Area Building 10,10436,21.0,30.0,1471.0,44.0,16.3,42.83,1.8,1,0,train
+115,Gengjiazhuang Residential Area Building 11,10436,18.0,20.0,1502.0,45.0,16.3,42.83,1.8,1,0,train
+116,Gengjiazhuang Residential Community Building 1,10436,25.0,30.0,1483.0,33.0,16.3,42.83,1.8,1,0,train
+117,Gongnong Road Building 81,10437,18.5,40.0,1671.0,57.0,15.08,30.0,2.47,1,0,train
+118,Gonghang Community,10635,20.0,100.0,1169.0,51.0,17.32,71.5,1.68,3,0,train
+119,Gonganju Community,11138,18.0,14.0,937.0,45.0,16.77,59.33,2.42,4,0,train
+120,Gonglu Community 1,11338,15.0,77.0,777.0,50.0,16.85,56.17,2.52,9,1,train
+121,Gonglu Community 2,11338,15.0,77.0,777.0,50.0,16.85,56.17,2.52,3,0,train
+122,Gongdianju Community Building 20,10437,42.0,20.0,1687.0,52.0,15.08,30.0,2.47,1,0,train
+123,Gulou Shangcheng,11738,76.0,40.0,11.0,59.0,20.0,71.0,2.77,5,1,test
+124,Guangshun Garden,12040,21.0,50.0,32.0,72.0,16.93,87.17,4.1,8,1,test
+125,Guangyuan Community 1,11842,21.0,60.0,822.0,66.0,14.2,59.17,2.88,1,0,train
+126,Guangyuan Community 2,11842,21.0,60.0,822.0,66.0,14.2,59.17,2.88,5,1,train
+127,Guangyuan Community 3,11842,21.0,60.0,822.0,66.0,14.2,59.17,2.88,2,0,train
+128,Guomai Aocheng 1,11537,21.0,17.0,19.0,46.0,20.33,66.67,2.5,11,1,train
+129,Guomai Aocheng 2,11537,21.0,17.0,26.0,53.0,20.33,66.67,2.5,15,1,train
+130,Guomai Aocheng 3,11537,21.0,17.0,27.0,54.0,20.33,66.67,2.5,9,1,train
+131,Guomai Aocheng 4,11537,21.0,17.0,30.0,54.0,20.33,66.67,2.5,11,1,train
+132,Guomai Aocheng 5,11637,21.0,17.0,30.0,55.0,20.18,69.0,2.67,10,1,train
+133,Guomai Aocheng 6,11539,21.0,17.0,38.0,51.0,19.48,66.33,2.45,8,1,test
+134,Guomai Aocheng 7,11537,21.0,17.0,41.0,53.0,20.33,66.67,2.5,5,1,train
+135,Guomai Aocheng 8,11537,21.0,17.0,25.0,75.0,20.33,66.67,2.5,3,0,train
+136,Guomai Aocheng 9,11537,21.0,17.0,29.0,69.0,20.33,66.67,2.5,9,1,train
+137,Hailongwan Building 6,11438,81.0,70.0,55.0,57.0,20.17,66.83,2.32,21,1,train
+138,Haitian Hotel 1,10536,21.0,75.0,1867.0,44.0,12.27,51.83,2.02,4,0,train
+139,Haitian Hotel 2,10536,21.0,75.0,1867.0,51.0,12.27,51.83,2.02,2,0,train
+140,Hehui Xinquanwan Building 10,11340,44.0,60.0,1046.0,50.0,14.87,46.33,3.03,8,1,test
+141,Hehui Xinquanwan Building 8,11340,53.0,95.0,1032.0,55.0,14.87,46.33,3.03,10,1,test
+142,Heping Street No.106,11138,18.0,50.0,907.0,62.0,16.8,58.17,2.48,5,1,train
+143,Hedong Community,11138,21.0,50.0,925.0,49.0,16.7,59.83,2.43,12,1,train
+144,Hexia Xincun,11438,18.0,25.0,681.0,44.0,17.65,59.0,2.58,8,1,train
+145,Hexia Xincun 10,11438,18.0,25.0,682.0,49.0,17.65,58.83,2.58,12,1,train
+146,Hengchang Building 3,11241,18.5,70.0,1035.0,39.0,14.88,38.83,3.15,7,1,test
+147,Hengchang Community Building 24,11241,18.5,50.0,1068.0,52.0,14.83,39.0,3.13,7,1,test
+148,Hengchang Community Building 6,11241,18.5,90.0,1046.0,40.0,14.88,38.83,3.15,3,0,test
+149,Hengchang Community Building 3,11241,18.5,70.0,1035.0,39.0,14.88,38.83,3.15,3,0,test
+150,Hengchang Community Building 1,11241,18.5,70.0,1034.0,39.0,14.88,38.83,3.15,4,0,test
+151,Hengda Huafu,11138,102.0,58.0,986.0,48.0,16.6,60.0,2.43,7,1,train
+152,Hengda Xincheng Building 1,11438,66.0,40.0,695.0,53.0,17.7,59.67,2.47,2,0,train
+153,Hengda Xincheng Building 3,11438,66.0,40.0,695.0,53.0,17.7,59.67,2.47,3,0,train
+154,Hengda Xincheng Building 4,11438,66.0,40.0,695.0,53.0,17.7,59.67,2.47,5,1,train
+155,Honghe Community,11438,90.0,40.0,95.0,66.0,20.13,66.17,2.32,19,1,train
+156,Hongqiaoli,12040,15.0,30.0,4.0,65.0,17.0,87.5,4.15,3,0,test
+157,Hongqiao Xinju,12040,18.0,30.0,2.0,73.0,17.03,87.83,4.12,5,1,test
+158,Hongyuan Community Building 3,11241,18.0,60.0,1047.0,27.0,14.88,38.83,3.15,4,0,test
+159,Hongyun Jiayuan 1,11738,72.0,25.0,-1.0,49.0,20.02,71.5,2.75,10,1,test
+160,Hongyun Jiayuan 2,11738,72.0,25.0,-1.0,47.0,20.02,71.5,2.75,13,1,test
+161,Houwang Street Building 8,11338,18.0,110.0,782.0,50.0,17.13,52.67,2.47,2,0,train
+162,Hutie Jiayuan Area C Building 22,11841,81.0,50.0,1054.0,48.0,15.63,71.83,2.67,5,1,test
+163,Hutie Jiayuan Area D Building 13,11241,81.0,50.0,1051.0,44.0,14.32,36.5,3.13,3,0,test
+164,Hutie Jiayuan Area D Building 14,11241,81.0,50.0,1048.0,47.0,14.32,36.5,3.13,2,0,test
+165,Hutie Jiayuan Area E Building 27,11241,51.0,50.0,1057.0,38.0,14.32,36.5,3.13,2,0,test
+166,Huafa Xincheng Building 18,11041,55.0,70.0,1072.0,56.0,15.47,38.0,3.13,3,0,train
+167,Huafu Mingdi 1,11538,78.0,50.0,57.0,54.0,20.15,66.0,2.42,13,1,train
+168,Huafu Mingdi 2,11538,78.0,50.0,57.0,54.0,20.15,66.0,2.42,9,1,train
+169,Huaxia Dijiu Garden,11740,36.0,20.0,8.0,30.0,19.82,81.17,2.47,13,1,train
+170,Huaxin Community,11238,81.0,20.0,797.0,48.0,17.3,56.67,2.33,3,0,test
+171,Huanbao Community,11338,32.0,70.0,781.0,49.0,17.08,54.83,2.43,7,1,train
+172,Huanquan Community,11340,19.6,60.0,1094.0,59.0,14.87,46.33,3.03,4,0,test
+173,Huanghe Garden Building 12,10538,18.0,40.0,1187.38,49.0,15.92,24.17,2.67,2,0,train
+174,Huanghe Garden Building 14,10538,15.0,80.0,1179.73,43.0,16.02,24.17,2.67,2,0,train
+175,Huanghe Garden Building 30,10538,15.0,60.0,1184.99,52.0,15.92,24.17,2.67,1,0,train
+176,Huanghe Garden Building 35,10538,18.0,50.0,1179.16,51.0,15.92,24.17,2.67,2,0,train
+177,Huanghe Garden Building 37,10538,18.0,60.0,1202.14,44.0,15.92,24.17,2.67,2,0,train
+178,Huanghe Garden Building 39,10538,18.0,60.0,1187.98,42.0,15.92,24.17,2.67,1,0,train
+179,Huanghe Garden Building 41,10538,18.0,60.0,1181.13,55.0,16.02,24.17,2.67,1,0,train
+180,Huanghe Garden Building 51,10538,18.0,70.0,1192.59,38.0,16.02,24.17,2.67,2,0,train
+181,Huanghe Garden Building 53,10538,18.0,30.0,1190.82,43.0,16.02,24.17,2.67,1,0,train
+182,Huanghe Garden Building 58,10538,18.0,60.0,1192.37,45.0,15.92,24.17,2.67,4,0,train
+183,Huanghe Garden Building 59,10538,18.0,60.0,1191.43,43.0,15.92,24.17,2.67,3,0,train
+184,Huanghe Garden Building 86,10538,18.0,60.0,1181.45,56.0,15.92,24.17,2.67,2,0,train
+185,Huifeng Garden Building 12,10638,18.5,80.0,1087.0,45.0,16.35,25.67,2.65,2,0,train
+186,Huifengyuan Court,11338,95.0,120.0,828.0,54.0,16.97,52.33,2.47,10,1,train
+187,Huihua College Dormitory Building 8,11438,39.0,40.0,76.0,58.0,20.48,68.5,2.53,11,1,train
+188,Huiquan Square,11340,51.0,90.0,1040.0,52.0,14.87,46.33,3.03,4,0,test
+189,Huochang Road Community Building 122,10437,18.0,30.0,1698.25,45.0,14.87,30.17,2.45,3,0,train
+190,Huochang Road Community Building 138,10437,18.0,60.0,1700.1,49.0,14.87,30.17,2.45,4,0,train
+191,Huochang Road Community Building 96,10437,18.0,40.0,1696.74,56.0,14.87,30.17,2.45,4,0,train
+192,Jixiang Ju,11138,21.0,35.0,939.0,52.0,16.77,59.33,2.42,8,1,train
+193,Jixiangyuan Court,11438,93.0,49.0,716.0,52.0,17.8,58.67,2.55,7,1,train
+194,Jixiang Meidi North Area,11338,92.0,125.0,786.0,54.0,16.97,52.67,2.47,9,1,train
+195,Jixiang Meidi South Area,11338,92.0,50.0,794.0,53.0,16.97,52.33,2.47,1,0,train
+196,Jishengju Family Building,11842,21.0,35.0,856.0,67.0,14.2,59.17,2.88,1,0,train
+197,Jiashuyuan (Family Quarters),11138,18.0,50.0,931.0,54.0,16.77,59.17,2.43,7,1,train
+198,Jiayuan Community Building 1,10638,18.0,12.0,1078.0,43.0,16.23,25.67,2.7,3,0,train
+199,Jiayuan Community Building 20,10638,18.0,50.0,1097.0,44.0,16.23,25.67,2.7,4,0,train
+200,Jiayuan Community Building 2,10638,18.0,70.0,1090.0,44.0,16.23,25.67,2.7,6,1,train
+201,Jianchayuan Community,11338,30.0,64.0,776.0,47.0,17.07,52.83,2.47,7,1,train
+202,Jianshuli 1,12040,15.0,35.0,0.0,68.0,17.0,87.5,4.15,2,0,test
+203,Jiangnan Shuixiang Area A Building 3,10638,20.0,80.0,1106.0,46.0,16.35,25.67,2.67,6,1,train
+204,Jiangnan Shuixiang Area B Building 16,10638,15.0,90.0,1085.0,46.0,16.37,25.5,2.72,3,0,train
+205,Jiangnan Shuixiang Area B Building 17,10638,19.0,110.0,1078.0,51.0,16.37,25.5,2.72,7,1,train
+206,Jiangnan Shuixiang Area B Building 5,10638,32.0,100.0,1081.0,51.0,16.37,25.5,2.72,4,0,train
+207,Jiaoyuju (Education Bureau),11138,18.0,63.0,915.0,65.0,16.77,59.17,2.43,5,1,train
+208,Jindi Jiajing Garden Factory Building,11438,9.0,20.0,683.0,64.0,17.7,60.33,2.53,1,0,train
+209,Jinhe Community,11538,84.0,40.0,67.0,51.0,20.18,66.17,2.43,17,1,train
+210,Jinlongwan,12040,18.0,65.0,2.0,53.0,16.35,83.67,4.1,9,1,test
+211,Jinlun Yiyuan Community Building 1,10436,24.0,80.0,1506.0,55.0,15.22,44.17,1.92,1,0,train
+212,Jinlun Yiyuan Community Building G7,10436,48.0,30.0,1508.0,55.0,15.22,44.17,1.92,2,0,train
+213,Jinrongjie Community,11741,18.0,37.0,647.0,54.0,15.12,63.33,2.72,3,0,train
+214,Jinxiu Huating,11842,19.0,36.66666667,846.3333333,53.33333333,14.2,59.17,2.88,5,1,train
+215,Jinxiuyuan 1,11339,18.0,70.0,1042.0,52.0,15.0,55.83,2.78,5,1,train
+216,Jinxiuyuan 2,11339,18.0,70.0,1042.0,52.0,15.0,55.83,2.78,4,0,train
+217,Jinze Yuan Old 6,11338,21.0,20.0,779.0,42.0,17.18,56.83,2.65,3,0,train
+218,Jinsong Xinjing,11338,82.5,30.0,785.0,53.0,17.08,55.83,2.55,5,1,train
+219,Jingdu Huayuan,11338,45.0,80.0,791.0,59.0,16.97,52.33,2.47,4,0,train
+220,Jinghuayuan Building 2,10638,21.0,60.0,1094.0,56.0,16.35,25.83,2.68,20,1,train
+221,Jingtai Community 1,11841,18.0,50.0,598.0,52.0,15.83,65.33,2.63,5,1,test
+222,Jingtai Community 2,11841,18.0,50.0,598.0,55.0,15.83,65.33,2.63,8,1,test
+223,Jingtai Community 3,11841,18.0,50.0,598.0,58.0,15.83,65.33,2.63,2,0,test
+224,Jingtai Community 4,11841,18.0,50.0,598.0,57.33333333,15.83,65.33,2.63,8,1,test
+225,Jingyi Community,11841,18.0,49.0,602.0,54.0,15.78,64.67,2.62,15,1,test
+226,Ju'an Community Building 26,10436,18.0,70.0,1496.01,49.0,16.12,43.0,1.82,5,1,train
+227,Jun'anli 2,11840,18.0,67.0,13.0,40.0,18.92,89.0,2.83,1,0,test
+228,Jun'an Community,12040,18.0,45.0,5.0,63.0,17.03,87.17,4.1,6,1,test
+229,Junlei Alley,10635,21.0,45.0,1108.0,54.0,17.32,71.5,1.68,4,0,train
+230,Kaiyue Hotel,10536,19.0,20.0,1879.0,51.0,12.22,51.33,2.12,2,0,train
+231,Kangda Community,11438,21.0,54.0,713.0,50.0,17.52,58.83,2.53,7,1,train
+232,Kangjuyuan Court,11841,18.0,75.0,524.0,50.8,15.83,65.33,2.63,30,1,test
+233,Kangmin Garden Building 11,10638,19.0,70.0,1072.0,56.0,16.35,26.0,2.63,6,1,train
+234,Kangmin Garden Building 16,10638,19.0,70.0,1096.0,49.0,16.35,26.0,2.63,4,0,train
+235,Kangmin Garden Building 8,10638,19.0,70.0,1077.0,57.0,16.35,26.0,2.63,3,0,train
+236,Kemingyuan Court,11438,21.0,61.0,755.0,47.0,17.47,60.33,2.48,8,1,train
+237,Keyunzhan Family Quarters Building 1,10436,23.0,60.0,1494.04,48.0,16.17,43.5,1.7,8,1,train
+238,Kongtong District Water and Soil Conservation Bureau,10736,21.0,27.0,1302.0,42.9,15.03,60.5,2.08,3,0,train
+239,Kuanxiangzi Community Building 3,11241,18.0,80.0,1036.0,50.0,14.88,38.83,3.15,7,1,test
+240,Kuangjian Gongsi Family Quarters,11340,19.0,80.0,1094.0,57.0,14.95,49.5,3.03,4,0,test
+241,Lanshi Run'an Community Building 761,10436,24.0,80.0,1502.16,47.0,16.2,40.67,2.15,7,1,train
+242,Lanshi Run'an Community Building 833,10436,24.0,80.0,1493.94,49.0,16.2,40.67,2.15,6,1,train
+243,Lantian Jiayuan,10635,47.5,45.0,1242.0,53.0,17.18,71.0,1.73,1,0,train
+244,Lantie Fuyuan Building 46,10436,24.0,60.0,1496.0,45.0,16.2,43.17,1.82,2,0,train
+245,Lantie Fuyuan Community Building 47,10436,24.0,40.0,1487.0,48.0,16.2,43.17,1.82,1,0,train
+246,Lantie Fuyuan Community Building 50,10436,24.0,50.0,1480.0,48.0,16.2,43.17,1.82,2,0,train
+247,Lantie Xinle Community Building 45,10436,21.5,30.0,1496.0,45.0,16.2,43.17,1.82,1,0,train
+248,Lantie Xinle Community Building 46,10436,18.0,60.0,1474.0,51.0,16.2,43.17,1.82,1,0,train
+249,Lantie Xinle Community Building 48,10436,18.0,10.0,1487.0,51.0,16.2,43.17,1.82,1,0,train
+250,Lantie Xinle Community Building 50,10436,18.0,60.0,1474.5,47.0,16.2,43.17,1.82,2,0,train
+251,Lantie Xinle Community Building 60,10436,24.0,50.0,1479.0,42.0,16.2,43.17,1.82,1,0,train
+252,Lanyuan Community,11640,21.0,100.0,52.0,66.0,19.5,77.83,2.47,18,1,train
+253,Lanzhou University Family Quarters Building 22,10436,55.0,30.0,1510.15,66.0,16.28,42.83,1.8,11,1,train
+254,Lanzhou University Graduate Dormitory Building 4,10436,21.0,50.0,1481.24,66.0,16.2,43.0,1.77,5,1,train
+255,Lanjun Lüdu Building 5,11438,24.0,40.0,47.0,51.0,19.97,65.83,2.3,19,1,train
+256,Laodong Garden Building 3,11241,15.5,80.0,1047.0,45.0,14.32,36.5,3.13,1,0,test
+257,Laodong Garden Building 4,11241,18.5,110.0,1048.0,39.0,14.32,36.5,3.13,4,0,test
+258,Laodong Garden Building 8,11241,12.0,100.0,1047.0,42.0,14.32,36.5,3.13,1,0,test
+259,Liliu Residential Community,11138,18.0,70.0,947.0,54.0,16.8,58.0,2.5,7,1,train
+260,Lihai Mingyuan,11841,51.0,45.0,547.0,73.0,15.83,65.33,2.63,2,0,test
+261,Lijinyuan Building 9,10638,20.5,40.0,1090.0,56.0,16.35,25.67,2.67,5,1,train
+262,Lijingyuan Building 4,10538,19.0,50.0,1196.47,49.0,16.42,24.17,2.73,3,0,train
+263,Lishui Huating 121,11738,30.0,50.0,2.0,56.0,19.98,70.33,2.73,8,1,test
+264,Lishui Huating 122,11738,30.0,50.0,2.0,56.0,19.98,70.33,2.73,7,1,test
+265,Lishui Huating 151,11738,30.0,70.0,2.0,50.0,20.0,69.33,2.7,9,1,test
+266,Lishui Huating 152,11738,30.0,70.0,2.0,50.0,20.0,69.33,2.7,1,0,test
+267,Lishui Xinyuan 2,11840,18.0,151.0,0.0,40.0,18.9,89.67,2.98,6,1,test
+268,Liyuan Community Building 1,11241,18.5,55.0,1071.0,50.0,14.57,38.5,3.13,9,1,test
+269,Lianhua Jiayuan,11138,21.0,81.0,935.0,51.0,16.65,59.67,2.42,6,1,train
+270,Liangcheng Yijing,11438,78.0,100.0,63.0,61.0,20.25,66.67,2.33,20,1,train
+271,Liang'erzhuang Community 1,11537,15.0,18.36363636,33.18181818,49.90909091,20.3,66.5,2.52,34,1,train
+272,Liang'erzhuang Community 2,11537,15.0,16.4,27.4,55.2,20.3,66.5,2.52,11,1,train
+273,Liang'erzhuang Community 3,11537,18.6,14.6,26.0,54.6,20.3,66.5,2.52,16,1,train
+274,Liang'erzhuang Community 4,11537,15.0,11.0,34.0,48.0,20.3,66.5,2.52,9,1,train
+275,Liang'erzhuang Community 5,11537,15.0,11.0,35.0,54.0,20.3,66.5,2.52,4,0,train
+276,Linhui Jiayuan Building 5,10638,18.5,50.0,1073.0,59.0,16.23,25.67,2.7,3,0,train
+277,Linheli 1,12040,18.0,45.0,4.0,55.0,17.03,87.17,4.1,5,1,test
+278,Linheli 2,12040,18.0,45.0,4.0,55.0,17.03,87.17,4.1,3,0,test
+279,Linzhengli,12040,18.0,40.0,2.0,73.0,16.98,85.83,4.15,3,0,test
+280,Liugangyuan Area B Building 12,11340,54.0,60.0,1009.0,51.0,14.87,46.5,3.05,13,1,test
+281,Liugangyuan Area B Building 22,11340,66.0,30.0,1021.0,32.0,14.87,46.5,3.05,6,1,test
+282,Liugangyuan Area B Building 23,11340,54.0,10.0,1035.0,41.0,14.87,46.5,3.05,9,1,test
+283,Liugangyuan Area B Building 8,11340,43.0,60.0,1023.0,61.0,14.87,46.33,3.03,6,1,test
+284,Liugangyuan Area C Building 25,11340,18.5,60.0,1037.0,44.0,14.87,46.5,3.05,9,1,test
+285,Liugangyuan Area C Building 6,11340,33.0,60.0,1021.0,44.0,14.87,46.5,3.05,8,1,test
+286,Liugangyuan Area C Building 9,11340,33.0,60.0,1064.0,38.0,14.87,46.5,3.05,5,1,test
+287,Liuhu Township Government Family Quarters,10736,18.0,58.0,1334.0,46.0,15.03,60.5,2.08,2,0,train
+288,Longfeng Community,11138,18.0,50.0,937.0,47.0,16.77,59.33,2.42,7,1,train
+289,Longjuxuan Court,11138,21.0,67.0,925.0,53.0,16.53,59.67,2.45,5,1,train
+290,Longquan Garden East Area,11438,39.0,60.0,74.0,63.0,20.07,66.33,2.28,18,1,train
+291,Longquan Community 1,11738,18.0,115.0,0.0,47.0,20.0,69.33,2.7,25,1,test
+292,Longquan Community 21,11738,18.0,65.0,0.0,47.0,20.0,69.33,2.7,13,1,test
+293,Longquan Community 22,11738,18.0,65.0,0.0,47.0,20.0,69.33,2.7,22,1,test
+294,Longting Jiayuan Building 3,10437,35.0,80.0,1700.46,55.0,15.02,30.67,2.48,5,1,train
+295,Longting Jiayuan Building 7,10437,20.0,70.0,1703.55,48.0,15.02,30.67,2.48,3,0,train
+296,Longxiang Community,11841,36.0,70.0,551.0,60.6,15.83,65.5,2.67,13,1,test
+297,Luoma Shijia,11138,99.0,70.0,893.0,57.0,16.85,59.67,2.4,8,1,train
+298,Luoyu Community 1,10635,15.0,28.0,1112.0,40.6,16.18,70.67,1.8,3,0,train
+299,Luoyu Community 2,10635,15.0,45.0,1112.0,37.0,17.32,71.5,1.68,5,1,train
+300,Luoyu Community 27,10635,15.0,25.0,1109.0,51.0,17.32,71.5,1.68,2,0,train
+301,Luoyu Community 3,10635,15.0,30.0,1114.0,42.3,17.37,71.5,1.68,3,0,train
+302,Meiyuan Community 1,11540,18.0,55.0,909.0,33.0,15.2,55.83,2.85,1,0,train
+303,Meiyuan Community 2,11540,18.0,55.0,909.0,37.0,15.2,55.83,2.85,1,0,train
+304,Meiyuan Community 3,11540,18.0,55.0,909.0,37.0,15.2,55.83,2.85,2,0,train
+305,Meidu Hotel,10237,16.0,30.0,2328.0,60.0,12.48,49.0,2.22,1,0,train
+306,Meijing Huating,11138,27.0,55.0,943.0,67.0,16.62,60.0,2.43,6,1,train
+307,Meili Jiayuan 1,10237,15.0,40.0,2236.0,50.0,12.37,47.83,2.5,2,0,train
+308,Meili Jiayuan 2,10237,18.0,50.0,2285.0,51.0,12.37,47.83,2.5,1,0,train
+309,Meili City Garden Building 9,10538,19.0,80.0,1196.5,50.0,16.35,24.83,2.47,2,0,train
+310,Meili Xincun Building 1,10538,18.0,80.0,1148.68,48.0,16.35,24.83,2.47,1,0,train
+311,Meilin Xiaozhen 1,11738,12.5,55.0,7.0,56.0,20.1,68.83,2.67,9,1,test
+312,Meilin Xiaozhen 2,11738,12.5,55.0,7.0,56.0,20.1,68.83,2.67,1,0,test
+313,Meishu Shufa Chuangzuo Zhanshi Jidi,10436,15.5,20.0,1482.0,56.0,16.2,43.17,1.82,1,0,train
+314,Minsheng Garden Building 2,10538,17.0,60.0,1194.67,54.0,16.23,25.0,2.47,6,1,train
+315,Mingshi Haoting,11438,66.0,20.0,700.0,67.0,17.72,59.17,2.48,3,0,train
+316,Mingshi Gongguan,11438,43.0,12.0,98.0,63.0,19.68,64.33,2.32,8,1,train
+317,Mingshi Ju Building 10,11241,31.0,80.0,1072.0,59.0,14.57,38.5,3.13,3,0,test
+318,Mingshi Ju Building 10-2,11241,31.0,80.0,1072.0,52.0,14.57,38.5,3.13,9,1,test
+319,Mingzhu Jiayuan 5,11840,18.0,103.0,2.0,40.0,18.9,89.67,2.98,9,1,test
+320,Mingzhu Jiayuan 6,11840,18.0,57.0,2.0,40.0,18.9,89.67,2.98,6,1,test
+321,Mingzhu Jiayuan 7,11840,15.0,57.0,2.0,40.0,18.9,89.67,2.98,6,1,test
+322,Mushan Community,11338,84.0,30.0,785.0,49.0,16.85,56.17,2.52,5,1,train
+323,Nanqiao Tingyuan Building 1,10638,24.0,50.0,1076.0,60.0,16.35,26.0,2.62,3,0,train
+324,Nanyiyuan Court,11138,21.0,80.0,902.0,52.0,16.85,59.67,2.4,7,1,train
+325,Nanyuan Village Clinic,10237,15.0,54.0,2238.0,55.0,12.43,49.33,2.3,1,0,train
+326,Nanyuan Xuefu,11438,18.0,30.0,665.0,51.0,17.65,58.83,2.55,6,1,train
+327,Nanzhuang Community No.2,11438,21.0,30.0,682.0,60.0,17.45,60.5,2.4,1,0,train
+328,Nanzhuang Community No.5,11438,21.0,30.0,682.0,60.0,17.45,60.5,2.4,1,0,train
+329,Nanzhuang Community No.7,11438,21.0,30.0,682.0,60.0,17.45,60.5,2.4,3,0,train
+330,Nanzhuangzi Village,10237,10.0,15.0,2221.0,38.0,12.3,48.33,2.3,1,0,train
+331,Ningliyuan Court,10237,15.0,53.0,2220.0,42.0,12.42,49.0,2.22,2,0,train
+332,Ningmeng Xiaozhen Building 1,11438,36.0,60.0,61.0,51.0,19.97,65.83,2.3,18,1,train
+333,Nuanquan Garden,10736,57.0,35.0,1305.0,53.0,15.03,60.5,2.08,2,0,train
+334,Nuanquan Garden 2,10736,57.0,36.0,1305.0,57.0,15.03,60.5,2.08,4,0,train
+335,Puqingli,12040,18.0,45.0,6.0,62.0,17.0,87.5,4.15,9,1,test
+336,Qile Jiayuan,11940,20.0,60.0,-7.0,54.0,17.02,85.83,4.0,8,1,train
+337,Qixin Jiayuan,11538,15.0,45.0,46.0,48.0,20.15,61.5,2.43,12,1,train
+338,Qingqing Jiayuan 7,11840,18.0,60.0,3.0,40.0,18.9,89.67,2.98,1,0,test
+339,Qingyiyuan Court,10237,18.0,43.0,2227.0,50.0,12.38,48.83,2.17,1,0,train
+340,Qingyuan Fengjing Building 26,10638,33.0,30.0,1093.0,35.0,16.35,25.0,2.72,6,1,train
+341,Qingyuan Fengjing Building 28,10638,33.0,30.0,1097.0,36.0,16.35,25.0,2.72,8,1,train
+342,Qingyuan Fengjing Building 33,10638,33.0,30.0,1081.0,42.0,16.35,25.0,2.72,4,0,train
+343,Qingyuan Fengjing Building 25,10638,33.0,60.0,1097.0,34.0,16.35,25.0,2.72,13,1,train
+344,Qunyili 2,12040,21.0,45.0,-4.0,78.0,17.03,87.83,4.12,5,1,test
+345,Reli Company Building 1-1,11438,45.0,40.0,728.0,57.0,17.5,60.17,2.52,2,0,train
+346,Renhe Community Building 10,11241,19.0,50.0,1060.0,52.0,14.3,36.33,3.12,7,1,test
+347,Renhe Community Building 3,11241,19.0,45.0,1054.0,48.0,14.3,36.33,3.12,4,0,test
+348,Renhang Family Quarters,11138,18.0,80.0,942.0,53.0,16.8,58.0,2.5,5,1,train
+349,Renhang Dormitory Building 1,11241,18.5,50.0,1028.0,59.0,14.82,38.83,3.17,5,1,test
+350,Home Inn,11338,20.0,55.0,763.0,55.0,17.13,52.67,2.47,8,1,train
+351,Ruifuxiang Community,11241,18.5,50.0,1080.0,40.0,14.83,39.0,3.13,3,0,test
+352,Sanbao Mansion,11640,19.8,66.0,46.0,59.0,19.5,76.5,2.43,13,1,train
+353,Sanqiaojie Community 16,11338,21.0,15.0,794.0,61.0,17.17,56.33,2.62,2,0,train
+354,Sanqiaojie Community 29,11338,18.0,10.0,793.0,65.0,17.13,56.0,2.6,2,0,train
+355,Sanqiaojie Community 9,11338,18.0,10.0,793.0,63.0,17.17,56.33,2.62,2,0,train
+356,Sanyuan Community Building 6,10436,24.0,60.0,1477.59,45.0,16.28,42.83,1.8,3,0,train
+357,Sanyuan Community Building 8,10436,18.0,50.0,1477.04,58.0,16.28,42.83,1.8,4,0,train
+358,Shandongli,12040,18.0,30.0,5.0,73.0,16.95,85.17,4.13,7,1,test
+359,Shannan Residential Community,10437,21.0,50.0,1661.0,54.0,15.05,30.17,2.45,1,0,train
+360,Shanshui Longcheng,11138,24.0,60.0,940.0,46.0,16.63,59.33,2.45,9,1,train
+361,Shanyi Dayiyuan 1,11338,21.0,20.0,762.0,42.0,17.22,55.83,2.55,8,1,train
+362,Shanyi Dayiyuan 2,11338,18.0,20.0,762.0,42.0,17.22,55.83,2.55,5,1,train
+363,Shizijie Community Building 29,10437,21.0,60.0,1728.03,59.0,14.87,30.0,2.43,6,1,train
+364,Shizijie Community Building 40,10437,21.0,50.0,1712.73,57.0,14.87,30.0,2.43,5,1,train
+365,Shizijie Community Building 48,10437,21.0,40.0,1697.29,54.0,14.87,30.0,2.43,7,1,train
+366,Provincial Construction Bank Family Quarters Building 1,10436,23.0,60.0,1510.48,57.0,16.3,42.83,1.8,5,1,train
+367,Shengmusi Family Quarters Building 2,10436,18.0,70.0,1490.78,51.0,16.17,43.5,1.7,3,0,train
+368,Shengshi Hua'an,11538,78.0,45.0,58.0,41.0,20.12,66.0,2.4,3,0,train
+369,Shengshi Longyuan,11741,69.0,15.0,677.0,43.0,13.82,63.0,2.98,2,0,train
+370,Shengshi Taoyuan,10635,21.0,60.0,1128.0,52.0,17.28,71.5,1.68,3,0,train
+371,Shengshi Taoyuan 2,10635,39.0,60.0,1119.0,49.0,17.28,71.5,1.68,5,1,train
+372,Shengxin Jiayuan,11538,15.0,50.0,52.0,49.0,20.15,61.5,2.43,10,1,train
+373,Crossroad Standalone Building 3,11840,9.0,9.0,0.0,50.0,18.93,89.0,2.83,1,0,test
+374,Shichengshu Building 10,10638,54.0,20.0,1076.0,49.0,16.35,25.67,2.65,7,1,train
+375,Shichengshu Building 7,10638,90.0,80.0,1076.0,49.0,16.35,25.67,2.65,7,1,train
+376,Shichengshu Phase II Building 3,10638,33.0,40.0,1062.0,58.0,16.35,25.67,2.65,1,0,train
+377,Shichengshu Building 5,10638,33.0,35.0,1075.0,47.0,16.35,25.67,2.65,4,0,train
+378,Shichengshu Building 1,10638,30.0,100.0,1073.0,45.0,16.35,25.67,2.65,4,0,train
+379,Shipinchang Family Quarters Building 4,11340,43.0,20.0,1034.0,55.0,14.95,49.5,3.03,4,0,test
+380,Shiji Hongyuan Area II,11438,21.0,37.0,671.0,53.0,17.8,58.67,2.55,9,1,train
+381,Shiji Hongyuan Area II 10,11438,21.0,50.0,685.0,53.0,17.8,58.67,2.55,6,1,train
+382,Shiji Garden Area B 1,10736,42.5,51.0,1334.0,48.0,14.82,59.5,2.18,4,0,train
+383,Shiji Garden Area B 2,10736,42.5,58.0,1334.0,37.0,15.0,60.0,2.13,2,0,train
+384,Shiji Garden Area B 3,10736,42.5,56.0,1334.0,44.0,15.0,60.0,2.13,2,0,train
+385,Shiji Garden Area C 1,10736,39.0,47.0,1318.0,40.0,15.07,60.17,2.12,3,0,train
+386,Shiji Garden Area C 2,10736,39.0,63.0,1318.0,40.0,15.07,60.17,2.12,4,0,train
+387,Shimao Jingzuan Block C,11241,85.0,25.0,1024.0,55.0,14.63,38.67,3.13,6,1,test
+388,Shirensheju Community,11138,18.0,55.0,905.0,59.0,16.77,58.0,2.48,8,1,train
+389,Shiwei Dangxiao (Party School),10635,22.0,61.0,1111.0,55.7,17.37,71.5,1.68,2,0,train
+390,Shiwei Shizhengfu Family Building,11138,15.0,27.0,914.0,55.0,16.72,60.17,2.43,7,1,train
+391,Shuxiang Huoguo,10536,13.0,30.0,1881.0,58.0,12.28,51.17,2.17,2,0,train
+392,Shuangshuiwan Community,11338,62.0,100.0,849.0,52.0,17.03,55.67,2.45,8,1,train
+393,Shuangyiyuan Building 2,10638,48.0,30.0,1072.0,47.0,16.35,25.0,2.72,3,0,train
+394,Shuangyiyuan Building 4,10638,48.0,30.0,1081.0,52.0,16.35,25.0,2.72,3,0,train
+395,Shui'an Meijing Building 6,11438,81.0,90.0,55.0,66.0,20.12,66.17,2.32,38,1,train
+396,Shui'an Shiji Block D,11241,67.0,70.0,1028.0,53.0,14.88,38.83,3.15,6,1,test
+397,Shuidian Shejiyuan Family Quarters Building 3,10436,27.0,60.0,1450.29,68.0,16.3,42.83,1.8,4,0,train
+398,Shuijingyuan Building 1,11438,21.0,20.0,656.0,67.0,17.87,59.17,2.6,4,0,train
+399,Shuijingyuan Building 4,11438,21.0,20.0,656.0,67.0,17.87,59.17,2.6,4,0,train
+400,Shuijing Huayuan 603,11840,36.0,59.0,0.0,40.0,18.9,89.67,2.98,16,1,test
+401,Shuili Community,11338,19.0,60.0,785.0,52.0,17.08,54.83,2.43,5,1,train
+402,Shuiquanwan Longyuan Building 13,11340,74.0,70.0,1010.0,54.0,14.92,46.33,3.05,4,0,test
+403,Shuiquanwan Longyuan Building 17,11340,74.0,70.0,1026.0,51.0,14.92,46.33,3.05,7,1,test
+404,Shuiyue Community,11738,16.0,50.0,0.0,55.0,20.02,71.5,2.75,4,0,test
+405,Sihexing Community West Area Building 16,11241,65.0,40.0,1030.0,51.0,14.82,38.83,3.17,16,1,test
+406,Sihexing Community West Area Building 17,11241,49.0,25.0,1030.0,56.0,14.82,38.83,3.17,2,0,test
+407,Siji Garden 1,11338,18.0,55.0,787.0,52.0,17.07,52.83,2.47,4,0,train
+408,Siji Garden 2,11338,18.0,65.0,787.0,52.0,17.07,52.83,2.47,11,1,train
+409,Siji Garden 3,11338,18.0,25.0,787.0,52.0,17.07,52.83,2.47,3,0,train
+410,Sijingyuan Court,11438,21.0,73.0,656.0,51.0,17.65,58.83,2.55,9,1,train
+411,Sinan Community Building 3,10638,18.0,70.0,1085.0,31.0,16.35,26.0,2.62,5,1,train
+412,Sinan Community Building 4,10638,18.0,90.0,1083.0,36.0,16.35,26.0,2.62,4,0,train
+413,Taihongyuan Building 2,11340,47.0,30.0,1040.0,61.0,14.95,49.5,3.03,3,0,test
+414,Taihongyuan Building 3,11340,47.0,30.0,1040.0,61.0,14.95,49.5,3.03,9,1,test
+415,Taihua Shucaiyuan,11138,36.0,49.0,944.0,55.0,16.72,60.17,2.43,8,1,train
+416,Tangjuyuan Area 2,11438,21.0,20.0,676.0,61.0,17.6,59.5,2.47,3,0,train
+417,Taoci Community Building 3,10738,52.0,30.0,1079.0,55.0,15.73666667,28.05666667,2.81,5,1,train
+418,Tianli Garden Building 1,10538,19.0,95.0,1196.7,49.0,16.22,24.83,2.43,7,1,train
+419,Tianli Garden Building 2,10538,19.0,95.0,1187.77,49.0,16.15,24.67,2.5,6,1,train
+420,Tianli Garden Building 4,10538,19.0,95.0,1197.91,52.0,16.15,24.67,2.5,6,1,train
+421,Tianlin Jinshuiwan,10635,65.0,60.0,1122.0,45.0,17.32,71.5,1.68,2,0,train
+422,Tianquan Jiamei Building 1-2,11438,21.0,40.0,723.0,58.0,17.47,60.0,2.55,1,0,train
+423,Tianquan Jiamei Building 2,11438,36.0,40.0,723.0,58.0,17.47,60.0,2.55,1,0,train
+424,Tianrunyuan Community Building 1,10437,21.0,80.0,1651.0,59.0,15.08,30.0,2.47,2,0,train
+425,Tianshui Road Community Building 1,10436,15.0,50.0,1470.0,54.0,16.28,42.83,1.8,5,1,train
+426,Tianwei Hotel,10635,28.0,29.0,1143.0,49.8,17.28,71.5,1.68,1,0,train
+427,Tielu Xincun Xinyuan Residential Community Building 1,10436,24.0,50.0,1481.0,51.0,16.2,43.17,1.82,1,0,train
+428,Tielu Xincun Xinyuan Residential Community Building 2,10436,15.0,70.0,1485.0,60.0,16.2,43.17,1.82,4,0,train
+429,Tienanlou 5,11840,11.5,60.0,0.0,40.0,18.9,89.67,2.98,1,0,test
+430,Tongcheng Yijing 3,11340,72.8,50.0,1043.0,54.0,15.03,49.33,2.97,4,0,test
+431,Tuanjie Community North Area Building 18,11841,15.0,80.0,1044.0,48.0,15.5,72.17,2.68,6,1,test
+432,Tuanjie Community North Area Building 27,11241,15.0,50.0,1040.0,50.0,14.27,36.33,3.17,4,0,test
+433,Tuanjie Community North Area Jiaheju,11241,18.0,60.0,1054.0,55.0,14.27,36.33,3.17,6,1,test
+434,Tuanjie Community East Area A-3 Building,11241,18.0,40.0,1052.0,49.0,14.27,36.33,3.17,2,0,test
+435,Wancheng Huafu Building 12,11340,75.0,40.0,1043.0,57.0,15.02,49.83,3.0,3,0,test
+436,Wancheng Huafu Building 14,11340,25.0,120.0,1046.0,55.0,15.02,49.83,3.0,8,1,test
+437,Wancheng Huafu Phase 2,11340,76.0,70.0,1047.0,50.0,14.98,49.83,3.02,3,0,test
+438,Wanfu Jiayuan,11338,39.0,70.0,783.0,61.0,16.82,55.0,2.48,4,0,train
+439,Wanhe Huafu Building 6,11438,48.0,40.0,83.0,67.0,19.87,65.83,2.28,11,1,train
+440,Wanjia Yuan Community,11438,18.0,20.0,687.0,54.0,17.7,59.67,2.47,7,1,train
+441,Wansheng Garden,10437,22.0,70.0,1735.0,54.0,15.05,30.17,2.45,1,0,train
+442,Wangxian West Road No.17,10437,18.0,30.0,1660.0,41.0,15.08,30.0,2.47,2,0,train
+443,"Weichang Jiutai Construction and Installation Co., Ltd.",11842,18.0,69.0,847.0,54.0,14.2,59.17,2.88,4,0,train
+444,Weishengju Residential Building 2,10538,15.0,10.0,1204.74,56.0,16.4,24.5,2.5,2,0,train
+445,Wenxinyuan Court,11338,18.0,67.0,797.0,85.0,16.82,55.0,2.48,6,1,train
+446,Wenfengyuan Court,11138,93.0,60.0,894.0,51.0,16.73,58.33,2.45,5,1,train
+447,Wenxingyuan Community Building 2 Unit 2,11338,90.0,50.0,770.0,53.0,17.08,54.83,2.43,6,1,train
+448,Wenxingyuan Community Building 3 Unit 2,11338,90.0,30.0,783.0,38.0,17.08,54.83,2.43,3,0,train
+449,Nameless,10635,17.5,28.0,1126.0,49.0,17.37,71.5,1.68,2,0,train
+450,Nameless Community,10635,54.8,59.8,1244.0,49.86,15.966,64.9,1.92,6,1,train
+451,Nameless Community 1,10635,21.0,66.0,1122.0,46.3,17.28,71.5,1.68,5,1,train
+452,Nameless Community 2,10635,21.0,66.0,1122.0,50.8,17.28,71.5,1.68,2,0,train
+453,Wutongyuan Court,11138,21.0,50.0,936.0,60.0,16.75,58.33,2.5,7,1,train
+454,Wuli Zhuangyuan Building 15,11438,54.0,40.0,39.0,62.0,20.27,67.0,2.38,8,1,train
+455,Wutan Community,11639,18.0,60.0,0.0,47.0,20.17,66.17,2.63,5,1,train
+456,Xi'an Community 1,11338,34.0,85.0,800.0,54.0,17.07,51.67,2.57,9,1,train
+457,Xi'an Community 2,11338,73.0,70.0,783.0,52.0,17.07,51.67,2.57,4,0,train
+458,Xi'an Community 3,11338,81.0,90.0,783.0,52.0,17.07,51.67,2.57,12,1,train
+459,Xi'an Community 1,11338,63.0,51.0,784.0,41.0,17.07,51.67,2.57,6,1,train
+460,Xi'an Community 2,11338,81.0,58.0,784.0,42.0,17.07,51.67,2.57,9,1,train
+461,Xi'an Community 3,11338,81.0,55.0,784.0,40.0,17.07,51.67,2.57,7,1,train
+462,Xicheng Fengjing Yideyuan 18,11438,18.0,30.0,729.0,52.0,17.47,60.33,2.48,2,0,train
+463,Xicheng Fengjing Yideyuan 20,11438,18.0,30.0,729.0,52.0,17.47,60.33,2.48,1,0,train
+464,Xicheng Fengjing Yideyuan 21,11438,18.0,30.0,729.0,52.0,17.47,60.33,2.48,2,0,train
+465,Xicheng Fengjing Yideyuan 30,11438,18.0,30.0,729.0,52.0,17.47,60.33,2.48,2,0,train
+466,Xicheng Fengjing Fengzeyuan,11438,52.0,40.0,729.0,52.0,17.47,60.33,2.48,4,0,train
+467,Xiguayuan Resettlement Building,10736,18.0,64.0,1344.0,43.5,15.03,60.5,2.08,3,0,train
+468,Xiguan School Family Building 1,11438,18.0,20.0,737.0,54.0,17.47,60.33,2.48,3,0,train
+469,Xiguan School Family Building 2,11438,18.0,20.0,737.0,54.0,17.47,60.33,2.48,2,0,train
+470,Xiguan School Family Building 3,11438,18.0,20.0,737.0,54.0,17.47,60.33,2.48,7,1,train
+471,Xijingyuan Xinhu Gang,10736,45.0,50.0,1344.0,49.0,15.0,60.0,2.13,3,0,train
+472,Xixing Community,10736,78.0,15.0,1334.0,53.0,15.03,60.5,2.08,2,0,train
+473,Xixing Community 2,10736,78.0,15.0,1334.0,53.0,15.03,60.5,2.08,1,0,train
+474,Xixing Community 3,10736,78.0,15.0,1334.0,53.0,15.03,60.5,2.08,3,0,train
+475,Xia'an Village Resettlement Community,11138,18.0,65.0,982.0,50.0,16.53,60.0,2.45,5,1,train
+476,Modern City,11538,96.0,45.0,78.0,49.0,20.15,66.0,2.42,17,1,train
+477,Xianghe Jiayuan Building 28,10437,20.0,40.0,1705.16,47.0,15.03,30.17,2.5,3,0,train
+478,Xianghe Jiayuan Building 2,10437,20.0,80.0,1687.56,51.0,15.03,30.17,2.5,3,0,train
+479,Xianghe Community,11138,18.0,70.0,914.0,57.0,16.77,58.0,2.48,6,1,train
+480,Xianghe Community Building 1,10436,17.0,60.0,1495.15,55.0,16.12,43.0,1.82,3,0,train
+481,Xianghe Community Area II Building 10,11241,18.0,125.0,1043.0,51.0,14.88,38.83,3.15,5,1,test
+482,Xianghe Community Area III Building 11,11241,18.0,50.0,1034.0,47.0,14.88,38.83,3.15,6,1,test
+483,Xianghe Community Area III Building 3,11241,18.0,90.0,1036.0,47.0,14.88,38.83,3.15,7,1,test
+484,Xiangning Jiayuan Building 1,11438,36.0,60.0,80.0,60.0,19.87,65.83,2.28,6,1,train
+485,Xiangyu Garden Community Building 14,11241,20.0,70.0,1049.0,48.0,14.88,38.83,3.15,4,0,test
+486,Xiangyang Area A Building 1,10538,15.0,60.0,1201.51,44.0,16.4,24.5,2.5,3,0,train
+487,Xiangyang Area A Building 5,10538,15.5,70.0,1191.09,42.0,16.4,24.5,2.5,3,0,train
+488,Xiangyang Area B Building 1,10538,15.0,90.0,1195.79,43.0,16.4,24.5,2.5,3,0,train
+489,Xiangyangli Subdistrict Nanhuan Road,11340,19.0,80.0,1059.0,58.0,14.93,47.67,2.95,3,0,test
+490,Xiangyang Community Building 22,10538,18.0,60.0,1194.0,42.0,16.4,24.5,2.5,6,1,train
+491,Xiaowang Community,11338,75.0,80.0,854.0,58.0,17.1,51.83,2.6,11,1,train
+492,Xiaolao Si Hotel,10536,16.0,20.0,1874.0,59.0,12.22,51.33,2.12,2,0,train
+493,Xin'aocheng Area B Building 20,11438,110.0,40.0,723.0,65.0,17.55,58.33,2.52,2,0,train
+494,Xindi Yangguang Jiayuan Building 4,10437,18.0,40.0,1691.0,34.0,15.05,30.17,2.45,1,0,train
+495,Xindi Yangguang Jiayuan Building 9,10437,21.0,20.0,1671.0,43.0,15.05,30.17,2.45,2,0,train
+496,Xinfeng Road No.54-2,11741,18.0,82.0,654.0,65.0,14.97,63.17,2.73,5,1,train
+497,Xinhaiyuan Community,11939,21.0,34.0,-12.0,61.0,17.13,86.17,4.03,6,1,train
+498,Xinhewan 1,10736,66.0,40.0,1284.0,58.0,15.0,60.0,2.15,3,0,train
+499,Xinhewan 2,10736,66.0,40.0,1284.0,62.0,15.0,60.0,2.15,3,0,train
+500,Xinhewan 3,10736,96.0,20.0,1322.0,59.0,15.13,60.0,2.13,1,0,train
+501,Xinhewan 4,10736,78.0,50.0,1322.0,55.0,15.13,60.0,2.13,3,0,train
+502,Xinhewan 5,10736,54.0,60.0,1322.0,52.0,15.13,60.0,2.13,5,1,train
+503,Xinhewan 6,10736,54.0,60.0,1322.0,54.0,15.13,60.0,2.13,2,0,train
+504,Xinhewan 7,10736,78.0,50.0,1322.0,57.0,15.13,60.0,2.13,1,0,train
+505,Xinhewan 8,10736,78.0,50.0,1322.0,57.0,15.13,60.0,2.13,2,0,train
+506,Xinhu Garden 1,10736,21.0,86.0,1371.0,49.3,15.0,60.0,2.13,1,0,train
+507,Xinhu Garden 2,10736,21.0,86.0,1371.0,46.0,15.0,60.0,2.13,2,0,train
+508,Xinhu Garden 3,10736,21.0,123.0,1371.0,59.3,15.0,60.0,2.13,3,0,train
+509,Xinhu Garden 4,10736,21.0,123.0,1371.0,48.9,14.95,59.83,2.17,4,0,train
+510,Xinhua Xinju,11438,21.0,40.0,700.0,67.0,17.72,59.17,2.48,5,1,train
+511,Xinhuayuan Building 3,11241,18.0,60.0,1042.0,55.0,14.63,38.67,3.13,3,0,test
+512,Xinhuayuan Building 4,11241,18.0,60.0,1044.0,52.0,14.63,38.67,3.13,3,0,test
+513,Xinleyuan No.16 Building 1,10436,24.0,20.0,1572.0,48.0,16.2,43.17,1.82,4,0,train
+514,Xinleyuan Building 18,10436,18.0,30.0,1490.0,45.0,16.2,43.17,1.82,1,0,train
+515,Xinleyuan Building 19,10436,24.0,40.0,1487.0,47.0,16.2,43.17,1.82,1,0,train
+516,Xinmei Tiandi 1,11338,102.0,73.0,786.0,34.0,17.07,51.67,2.57,2,0,train
+517,Xinmei Tiandi 2,11338,57.0,50.0,786.0,49.0,17.07,51.67,2.57,2,0,train
+518,Xinshiji Garden Building 15,10437,21.0,60.0,1661.0,53.0,15.05,30.67,2.42,3,0,train
+519,Xinshiji Garden Building 20,10437,21.0,50.0,1666.0,29.0,15.05,30.67,2.42,1,0,train
+520,Xinshiji Garden Building 22,10437,21.0,90.0,1671.0,31.5,15.05,30.67,2.42,2,0,train
+521,Xinshuyuan Block B,11241,17.0,90.0,1116.0,49.0,14.37,36.5,3.12,5,1,test
+522,Xinyue Community Building 11,10638,18.0,60.0,1082.0,45.0,16.35,25.67,2.65,7,1,train
+523,Xinyue Community Building 5,10638,18.0,50.0,1081.0,36.0,16.35,26.0,2.62,3,0,train
+524,Xinyue Community Building 6,10638,18.0,50.0,1077.0,42.0,16.35,26.0,2.62,8,1,train
+525,Xinyuan Community Building 29,10437,18.0,50.0,1680.0,54.0,15.03,30.5,2.4,1,0,train
+526,Xinyuan Community Building 35,10437,18.0,50.0,1695.0,51.0,15.03,30.5,2.4,3,0,train
+527,Xinyuan Community Building 36,10437,18.0,50.0,1690.0,52.0,15.03,30.5,2.4,3,0,train
+528,Xinmei Jiayuan 3,11338,80.0,50.0,854.0,50.0,17.07,51.67,2.57,7,1,train
+529,Xingguang Garden Building 1,10638,18.0,80.0,1075.0,57.0,16.35,25.0,2.72,1,0,train
+530,Xingguang Garden Building 4,10638,18.0,80.0,1072.0,51.0,16.35,25.67,2.65,3,0,train
+531,Xingguanghua Residential Area B Building 12,10638,18.0,70.0,1066.0,48.0,16.37,24.5,2.85,7,1,train
+532,Xingguanghua Residential Area B Building 14,10638,18.0,40.0,1087.0,37.0,16.37,24.5,2.85,4,0,train
+533,Xingguanghua Residential Area B Building 15,10638,18.0,40.0,1090.0,44.0,16.37,24.5,2.85,3,0,train
+534,Xing'anyuan 1,11339,18.0,118.0,1089.0,56.0,14.72,55.83,2.83,6,1,train
+535,Xing'anyuan 2,11339,18.0,118.0,1089.0,56.0,14.72,55.83,2.83,5,1,train
+536,Xingda Community 11,11338,48.0,30.0,784.0,55.0,17.07,56.0,2.6,15,1,train
+537,Xingda Community 12,11338,48.0,30.0,784.0,52.0,17.07,56.0,2.6,9,1,train
+538,Xingfu Jiayuan,11138,18.0,75.0,933.0,46.0,16.65,59.67,2.42,3,0,train
+539,Xiujunyuan 1,11338,15.0,50.0,781.0,52.0,16.85,56.17,2.52,4,0,train
+540,Xiujunyuan 2,11338,15.0,50.0,781.0,52.0,16.85,56.17,2.52,1,0,train
+541,Xiulinyuan Court,11438,18.0,25.0,739.0,45.0,17.47,60.33,2.48,7,1,train
+542,Xiulin Yuan Area A,11438,18.0,34.0,769.0,44.0,17.47,60.33,2.48,6,1,train
+543,Xuchan Gongsi Family Building,10638,18.0,50.0,1088.0,46.0,16.35,26.0,2.62,10,1,train
+544,Xuefuyuan Court,11238,51.0,16.0,754.0,59.0,17.32,56.83,2.35,2,0,test
+545,Yayuan Building 5,11438,86.0,11.0,82.0,49.0,19.68,64.33,2.32,13,1,train
+546,Yayuan Building 7,11438,91.0,12.0,82.0,49.0,19.68,64.33,2.32,16,1,train
+547,Yayuan Building 8,11438,77.0,13.0,82.0,85.0,19.68,64.33,2.32,8,1,train
+548,Yalongwan,11738,60.0,70.0,30.0,55.0,20.08,67.17,2.65,8,1,test
+549,Yandongli,12040,18.0,60.0,3.0,55.0,17.02,86.33,4.08,3,0,test
+550,Yanzhu Gongyu,11438,63.0,47.0,712.0,64.0,17.52,58.83,2.53,8,1,train
+551,Yangguan Zhuzhai,11138,96.0,56.0,916.0,56.0,16.63,59.33,2.43,8,1,train
+552,Yangguang City Garden Building 1,11438,42.0,10.0,83.0,55.0,19.7,64.33,2.32,16,1,train
+553,Yangguang City Garden Building 8,11438,70.0,10.0,83.0,51.0,19.7,64.33,2.32,7,1,train
+554,Yangguang Garden Building 3,10538,33.0,100.0,1194.0,49.0,16.4,24.5,2.5,6,1,train
+555,Yangguang Jiayuan 14,11840,18.0,96.0,-3.0,40.0,18.9,89.67,2.98,4,0,test
+556,Yangguang Jiayuan 4,11840,18.0,65.0,-3.0,40.0,18.9,89.67,2.98,1,0,test
+557,Yangguang Community 1,11338,18.0,75.0,785.0,42.0,16.82,55.0,2.48,9,1,train
+558,Yangguang Community 2,11338,18.0,75.0,774.0,58.0,16.82,55.0,2.48,3,0,train
+559,Yangguang Xincheng Community 1,11539,33.0,50.0,916.0,39.0,15.2,55.83,2.85,2,0,test
+560,Yangguang Xincheng Community 2,11539,33.0,50.0,916.0,42.0,15.2,55.83,2.85,1,0,test
+561,Yangguang Xincheng Community 3,11539,33.0,50.0,916.0,33.0,15.2,55.83,2.85,1,0,test
+562,Yizhichuan South Street No.45,10436,16.0,50.0,1489.63,59.0,16.28,42.83,1.8,6,1,train
+563,Yizhichuan South Street No.96 Family Quarters,10436,17.0,40.0,1471.1,49.0,16.28,42.83,1.8,7,1,train
+564,Yixin Jiayuan Building 4,11538,52.0,25.0,60.0,61.0,20.17,61.67,2.43,7,1,train
+565,Yixinyuan Court,11137,21.0,50.0,911.0,51.0,16.57,59.17,2.48,5,1,train
+566,Ibis Hotel,10736,19.0,45.0,1337.0,52.9,15.0,60.0,2.13,4,0,train
+567,Yijia Yuanshangyuan,11338,75.0,20.0,790.0,52.0,17.07,52.83,2.47,4,0,train
+568,Yicun Community Building 13,11338,20.0,50.0,780.0,52.0,17.03,55.67,2.45,7,1,train
+569,Yimin Xinqu (Resettlement Area),11339,18.0,70.0,1096.0,67.0,14.6,56.0,2.8,5,1,train
+570,Yiheju Building 1,11241,18.0,50.0,1063.0,46.0,14.32,36.5,3.13,6,1,test
+571,Yiheju Building 3,11241,18.0,50.0,1051.0,41.0,14.32,36.5,3.13,3,0,test
+572,Yin'anyuan Building 15,10437,18.0,60.0,1681.45,58.0,15.03,30.0,2.5,3,0,train
+573,Yin'anyuan Building 1,10437,21.5,70.0,1668.35,53.0,15.03,30.0,2.5,10,1,train
+574,Yin'anyuan Building 9,10437,18.0,40.0,1675.19,68.0,15.03,30.0,2.5,4,0,train
+575,Yinhao Jiayuan Building 3,11340,21.5,65.0,1060.0,50.0,14.87,46.5,3.05,6,1,test
+576,Yinhao Jiayuan Building 4,11340,21.5,65.0,1063.0,54.0,14.93,47.67,2.95,4,0,test
+577,Yintai Huafu Building 1-1,11438,36.0,60.0,46.0,63.0,20.18,66.5,2.37,23,1,train
+578,Yintai Huafu Building 1-2,11438,36.0,60.0,46.0,68.0,20.18,66.5,2.37,12,1,train
+579,Yintai Jiayuan West Area Building 12,11438,54.0,50.0,63.0,62.0,20.18,67.0,2.38,19,1,train
+580,Yingjieyuan Court,11138,24.0,58.0,992.0,49.0,16.63,60.0,2.43,6,1,train
+581,Yingbin No.1 Building 11,10538,18.0,10.0,1186.72,50.0,16.15,25.0,2.45,1,0,train
+582,Yingbin No.1 Building 4,10538,18.0,50.0,1199.34,49.0,16.15,25.0,2.45,2,0,train
+583,Yingbin No.1 Building 7,10538,18.0,50.0,1191.32,49.0,16.15,25.0,2.45,1,0,train
+584,Yongfeng Street Building 24,10437,20.0,40.0,1684.45,68.0,15.03,30.0,2.5,3,0,train
+585,Yongfeng Street Community Building 318,10437,9.0,30.0,1704.44,56.0,14.87,30.17,2.45,4,0,train
+586,Yongfeng Street Community Building 322,10437,21.0,60.0,1699.63,49.0,14.87,30.17,2.45,3,0,train
+587,Yongtai Xicheng Fengjing Building 6,11438,18.0,20.0,737.0,54.0,17.47,60.33,2.48,5,1,train
+588,Yongwang Jiayuan,11640,27.0,67.0,47.0,35.0,19.52,77.17,2.45,4,0,train
+589,Yongwang Jiayuan Area III,11640,30.0,56.0,49.0,35.0,19.5,76.5,2.43,17,1,train
+590,Yongxing Jiayuan Building 2,10638,18.5,80.0,1094.0,50.0,16.23,25.67,2.7,3,0,train
+591,Youdian Community,11138,18.0,55.0,928.0,57.0,16.77,58.0,2.48,4,0,train
+592,Youhao Road Building 110,10437,12.0,60.0,1693.36,53.0,15.0,30.0,2.43,2,0,train
+593,Youhao Road Building 116,10437,18.0,60.0,1695.59,50.0,15.0,30.0,2.43,4,0,train
+594,Youhao Road Building 178,10437,18.0,50.0,1696.33,52.0,15.03,30.0,2.5,5,1,train
+595,Youyi Street No.18 Block 31 Building,11041,18.0,50.0,1038.0,51.0,15.45,37.0,3.08,4,0,train
+596,Youyi Street No.18 Block 49 Building,11041,18.0,50.0,1031.0,50.0,15.45,37.0,3.08,2,0,train
+597,Youyi Street No.18 Block 50 Building,11041,18.0,50.0,1048.0,41.0,15.45,37.0,3.08,2,0,train
+598,Youyi Street No.18 Block 61 Building,11041,18.0,50.0,1038.0,49.0,15.45,37.0,3.08,3,0,train
+599,Youyi Street No.18 Block Fu 23 Building,11041,18.0,50.0,1036.0,49.0,15.45,37.0,3.08,2,0,train
+600,Youyi Building 15,11840,15.0,38.0,12.0,55.0,18.77,87.5,2.93,1,0,test
+601,Youyi Building 3,11840,15.0,8.0,12.0,55.0,18.77,87.5,2.93,1,0,test
+602,Youyi Building 8,11840,15.0,38.0,12.0,55.0,18.77,87.5,2.93,1,0,test
+603,Youyi Community,11241,18.0,50.0,1053.0,43.0,14.83,39.0,3.13,6,1,test
+604,Youyi Community North Area Building 15,11041,18.0,50.0,1021.0,44.0,15.4,37.33,3.08,3,0,train
+605,Youyi Community North Area Building 38,11041,18.5,90.0,1037.0,47.0,15.4,37.33,3.08,4,0,train
+606,Youyi Community North Area Building 39,11041,18.5,120.0,1026.0,46.0,15.4,37.33,3.08,5,1,train
+607,Youyi Community North Area Building 91,11041,19.0,90.0,1040.0,48.0,15.45,37.0,3.08,3,0,train
+608,Youyi Community North Area Building 92,11041,19.0,90.0,1040.0,48.0,15.45,37.0,3.08,4,0,train
+609,Youyi Community South Area Building 12,11041,18.0,80.0,1045.0,49.0,15.4,37.33,3.08,6,1,train
+610,Youyi Community South Area Building 20,11041,18.0,80.0,1033.0,49.0,15.4,37.33,3.08,7,1,train
+611,Youyi Community South Area Building 25,11041,18.5,70.0,1028.0,59.0,15.4,37.33,3.08,6,1,train
+612,Youyi Community South Area Building 36,11041,19.0,90.0,1036.0,46.0,15.4,37.33,3.08,4,0,train
+613,Youse Jinshu Chukou Gongsi,10237,21.0,25.0,2238.0,58.0,12.32,48.17,2.35,1,0,train
+614,Yudu Garden Building 4,10538,19.0,70.0,1205.49,51.0,16.35,24.83,2.47,5,1,train
+615,Yudu Garden Building 6,10538,19.0,70.0,1196.05,54.0,16.35,24.83,2.47,2,0,train
+616,Yudu Garden Building 8,10538,19.0,60.0,1186.04,56.0,16.35,24.83,2.47,3,0,train
+617,Yucai Road Community,11538,15.0,60.0,50.0,49.0,20.17,63.0,2.48,8,1,train
+618,Yuhai Jiayuan,11740,36.0,30.0,-9.0,20.0,19.77,82.5,2.53,17,1,train
+619,Yujinyuan South Area Building 2,11340,72.0,70.0,1048.0,53.0,14.87,46.33,3.03,5,1,test
+620,Yujinyuan South Area Building 4-1,11340,72.0,80.0,1019.0,54.0,14.87,46.33,3.03,12,1,test
+621,Yujinyuan North Area Building 1,11340,72.0,50.0,1065.0,58.0,14.92,46.33,3.05,9,1,test
+622,Yujinyuan North Area Building 4-2,11340,72.0,80.0,1029.0,52.0,14.92,46.33,3.05,9,1,test
+623,Yujing Huacheng Building 10,10538,18.0,50.0,1200.77,49.0,16.02,24.17,2.67,1,0,train
+624,Yujing Huacheng Building 7,10538,18.0,80.0,1179.59,47.0,16.02,24.17,2.67,3,0,train
+625,Yulongwan,11138,90.0,48.0,929.0,53.0,16.63,59.33,2.43,11,1,train
+626,Yuanzhongyuan Building 3,11340,20.0,35.0,1032.0,60.0,14.98,49.83,3.02,6,1,test
+627,Yunjinyuan Building 36,10437,45.5,60.0,1688.0,45.0,15.02,30.67,2.38,3,0,train
+628,Yunqinyuan Building 9,11340,22.0,70.0,1050.0,43.0,14.93,47.67,2.95,13,1,test
+629,Yunxiang Community Building 2,10436,12.0,40.0,1423.39,53.0,16.12,43.0,1.82,7,1,train
+630,Zhenbaoyuan Building 1,11438,51.0,40.0,705.0,59.0,17.57,58.67,2.52,2,0,train
+631,Zhenbaoyuan Building 2,11438,51.0,40.0,705.0,59.0,17.57,58.67,2.52,3,0,train
+632,Zhenbaoyuan Building 4,11438,51.0,40.0,705.0,59.0,17.57,58.67,2.52,5,1,train
+633,Zhenbaoyuan Building 5,11438,51.0,40.0,705.0,59.0,17.57,58.67,2.52,12,1,train
+634,Zhenbaoyuan Building 6,11438,51.0,40.0,705.0,59.0,17.57,58.67,2.52,3,0,train
+635,Zhengfeng Community Building 1,10638,19.0,90.0,1164.0,65.0,16.23,25.67,2.7,3,0,train
+636,Zhengjiatai Community Building 3,10436,21.0,30.0,1460.56,56.0,16.3,42.83,1.8,3,0,train
+637,Zhengfu Family Building,10538,24.5,100.0,1187.0,54.0,16.35,24.83,2.47,1,0,train
+638,Zhijinyuan Court,10635,18.0,16.0,1127.0,50.0,17.28,71.83,1.7,1,0,train
+639,Zhijinyuan 2,10635,21.0,20.0,1127.0,50.0,17.28,71.83,1.7,1,0,train
+640,Zhicheng Huafu Building 10-1,11438,78.0,40.0,75.0,54.0,20.47,68.17,2.53,20,1,train
+641,Zhicheng Huafu Building 10-2,11438,78.0,40.0,75.0,54.0,20.47,68.17,2.53,3,0,train
+642,Zhicheng Huafu Building 7-1,11438,78.0,40.0,75.0,50.0,20.47,68.17,2.53,16,1,train
+643,Zhicheng Huafu Building 7-2,11438,78.0,40.0,75.0,50.0,20.47,68.17,2.53,2,0,train
+644,Zhongfang Xingyuan,12040,57.0,20.0,5.0,61.0,16.98,85.83,4.15,3,0,test
+645,China Coal Museum Dormitory,11338,64.0,110.0,770.0,52.0,17.07,52.83,2.47,3,0,train
+646,Zhongguo Yisilanjiao Wenquan Tang,10436,24.0,30.0,1470.0,53.0,16.3,42.83,1.8,1,0,train
+647,Zhonghe Yinjie,10536,16.0,38.5,1840.0,48.0,12.45,51.33,2.08,3,0,train
+648,Zhonghua Jiayuan Phase I Building 4,11241,17.0,90.0,1055.0,52.0,14.3,36.33,3.12,8,1,test
+649,Zhonghua Jiayuan Phase I No.9,11241,18.5,50.0,1038.0,46.0,14.3,36.33,3.12,8,1,test
+650,Zhongjing Garden,11338,58.0,60.0,758.0,50.0,17.08,54.83,2.43,5,1,train
+651,Central Park,11138,96.0,70.0,946.0,55.0,16.77,59.33,2.42,4,0,train
+652,Zhongyang Meiyu,11340,73.8,80.0,1056.0,59.0,15.0,48.83,3.02,9,1,test
+653,Zhongyi Jiayuan Building 6,10538,32.0,70.0,1182.77,57.0,15.92,24.17,2.67,7,1,train
+654,Ziruiyuan Building 2,10538,18.0,50.0,1185.44,47.0,16.35,24.83,2.47,3,0,train
+655,Zuobiaocheng Area D 12,11438,42.0,30.0,771.0,53.0,17.47,60.0,2.55,5,1,train
+656,Zuobiaocheng Area D 8,11438,24.0,100.0,766.0,51.0,17.47,60.0,2.55,8,1,train

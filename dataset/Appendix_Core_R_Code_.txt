@@ -1,0 +1,67 @@
+Core R Code Workflow Summary with Annotations
+1. Data Preparation & Environmental Variable Processing
+# Load spatial data processing packages
+library(raster)
+library(sf)
+library(maptools)
+# Set working directory and load environmental data
+
+biocur <- brick('present19.tif') # Read climate raster data
+# Crop data to China region
+chinap <- shapefile(choose.files()) # Load China administrative boundary vector
+biocurC <- crop(biocur1, chinap[5,]) # Crop climate data
+biocurC <- mask(biocur1, chinap[5,], updatevalue=NA) # Mask processing
+biodat2 <- as.data.frame(biocurC2, xy=T)
+Annotation:
+Annotation: Climate data from WorldClim was cropped to China using vector boundaries and converted to tabular format. Corresponds to "climatic/geographic variables from WorldClim" in the manuscript.
+
+
+2.Mixed-effects model analysis
+# Structural Equation Modeling (SEM)
+library(nlme)
+library(piecewiseSEM)
+
+m01<-lme(fixed = AvaNR2~Altitude+BuildingHeight+nd,
+         random = ~ 1 | ID2,data = b5,
+         weights =    varIdent(form = ~1 | alt_group_quantile ))
+m02<-lme(fixed = DensityR ~ AvaNR2 + BuildingHeight+Altitude,
+            random = ~ 1 | ID,data = b5,
+            weights = varComb(
+              varFixed(~ I(1/(AvaNR2 + 1))),  # fix weight：1/(AvaNR2+1)
+              varIdent(form = ~1 | alt_group_quantile) ))
+m03<- lme(fixed = NestHeightR~DensityR +AvaNR2 +BuildingHeight +Altitude+nd , 
+          random = ~ 1 | Loc,  data = b5,
+          weights = varComb(
+            varFixed(~ I(DensityR+1 )),  #  fix weight：DensityR
+            varIdent(form = ~1 | alt_group_quantile) ))
+nest.psem <- psem(m01, m02,m03)
+summary(nest.psem)
+
+Annotation: lme4 for hierarchical modeling of altitude-GDP interactions on nest density (manuscript: "mixed-effects models for socioeconomic gradients").
+SEM via piecewiseSEM with variable selection (partial R² > 0.3) (manuscript: "SEM for multi-factor pathway analysis").
+3. Interaction Effects & Johnson-Neyman Analysis
+
+# Interaction visualization and significance thresholds
+library(nlme)
+library(interactions)
+fit1 <-lme(fixed = DensityR ~ gdpp*Altitude ,
+            random = ~ 1 | ID,data = b5,
+            weights = varComb(
+              varFixed(~ I(1/(AvaNR2 + 1))),  # fix weight：1/(AvaNR2+1)
+              varIdent(form = ~1 | alt_group_quantile) ))
+
+johnson_neyman(fit1, pred="gdpp", modx="Altitude")
+interact_plot(fit1, pred="gdpp", modx="Altitude", plot.points=T)
+Annotation:
+Annotation: Calculates altitude-modulated thresholds for GDP effects (manuscript: "GDP suppresses nest density at low altitudes but enhances it at high altitudes") using Johnson-Neyman technique.
+
+4. Data Visualization & Publication-Quality Plotting
+
+# Multi-panel layouts with marginal distributions
+library(ggMarginal)
+n1 <- ggMarginal(n1, type="histogram", xparams=list(fill="#00B0F0"))
+grid.arrange(n2, n1, ncol=2) # Panel arrangement
+# Statistical annotations
+annotate("text", x=100, y=30, label=lm_eqn11(datB), parse=TRUE)
+Annotation:
+Annotation: ggplot2 and ggMarginal generate scatterplots with marginal histograms (manuscript Figures 3-4).Inline model statistics (R²/p-values) enhance interpretability.

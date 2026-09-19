@@ -1,0 +1,22 @@
+|--- Altitude <= 1107.00
+|   |--- Altitude <= 434.20
+|   |   |--- temp <= 20.19
+|   |   |   |--- class: 1
+|   |   |--- temp >  20.19
+|   |   |   |--- class: 1
+|   |--- Altitude >  434.20
+|   |   |--- BuildingWidth <= 50.50
+|   |   |   |--- class: 0
+|   |   |--- BuildingWidth >  50.50
+|   |   |   |--- class: 1
+|--- Altitude >  1107.00
+|   |--- temp <= 16.11
+|   |   |--- BuildingHeight <= 20.50
+|   |   |   |--- class: 0
+|   |   |--- BuildingHeight >  20.50
+|   |   |   |--- class: 0
+|   |--- temp >  16.11
+|   |   |--- prec <= 43.08
+|   |   |   |--- class: 0
+|   |   |--- prec >  43.08
+|   |   |   |--- class: 0

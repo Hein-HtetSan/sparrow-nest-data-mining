@@ -1,0 +1,502 @@
+SourceRowIndex,Building#,ID,HigherNestCount,PredictedClass,Correct
+0,Building 11,11640,1,1,True
+1,Building 3,11640,1,1,True
+2,Building 8-1,11640,1,1,True
+3,Building 8-2,11640,1,1,True
+4,Building 9-1,11640,1,1,True
+5,Building 9-2,11640,1,1,True
+6,SOHO,10237,1,0,False
+7,Aerding Community Building 25,11041,0,1,False
+8,Aerding Community Building 26,11041,0,0,True
+9,Aerding Community Building 29,11041,0,1,False
+10,Aerding Community Building 35,11041,1,1,True
+11,Anding Heshi Hotel,10536,0,0,True
+12,Antian Community Building 11,10436,0,0,True
+13,Baiyin District Zhaoshangju Family Quarters,10437,0,0,True
+14,Baiyin Community Building 14,10437,0,0,True
+15,Baiyin Community Building 16,10437,0,0,True
+16,Baihe Jiayuan 1,11339,1,1,True
+17,Baihe Jiayuan 2,11339,1,1,True
+18,Baiwang Moli Garden,11640,1,1,True
+19,Baoqing Jiayuan Building 14,10638,1,0,False
+20,Baoqing Jiayuan Building 15,10638,1,0,False
+21,Baoqing Jiayuan Building 3,10638,0,0,True
+22,Beiguan Jingcheng 1,11538,1,1,True
+23,Beiguan Jingcheng 2,11538,1,1,True
+24,Beijing Haidian Yongfeng Nonggongshang Corporation,11640,1,1,True
+25,Bihai Garden 1,11339,1,1,True
+26,Bihai Garden 2,11339,1,1,True
+29,Bishui Lanwan Building 17,11438,0,1,False
+30,Bishui Lanwan Building 18,11438,1,1,True
+31,Binhe West Road No.20,11138,0,0,True
+32,Binhe Yuexiu 1,11538,1,1,True
+33,Binhe Yuexiu 2,11538,1,1,True
+34,Binjiang Garden,11138,1,1,True
+35,Binxi Garden Block B,11338,1,1,True
+36,Binxi Garden Block C,11338,1,1,True
+41,Caiqiao Xincun Building 19,10538,0,0,True
+42,Caiqiao Xincun Building 22,10538,1,0,False
+43,Caiqiao Xincun Building 5,10538,0,0,True
+44,Changsheng North Street Building 14,11538,1,1,True
+45,Changsheng North Street Building 16,11538,1,1,True
+46,Changsheng North Street Building 21,11538,1,0,False
+47,Changning Community,11138,0,0,True
+48,Chaoyang Jiayuan 1,11741,0,1,False
+49,Chaoyang Jiayuan 2,11741,0,1,False
+50,Chaoyang Jiayuan 3,11741,0,1,False
+58,Chenxi Garden,11438,1,1,True
+62,Chengdong Community,11138,0,1,False
+63,City Garden,11437,1,1,True
+64,Shengdi Lijiang Building 3,11438,1,1,True
+65,Shengdi Lijiang Building 4,11438,1,1,True
+67,Chunfeng Jiayuan,10635,0,1,False
+68,Cuiyuan Court,11338,1,1,True
+69,Derong Dijing,11739,1,1,True
+70,Derong Garden,11438,1,1,True
+71,Deyejü Garden No.12,11438,0,1,False
+72,Deyejü Garden No.13,11438,0,1,False
+73,Dishuiju Community,11338,0,1,False
+74,Dianzi Chanpin Jianyansuo Family Quarters,11338,0,1,False
+75,Dongcheng Shui'an,11438,1,1,True
+76,Dongcheng Shui'an Building 3,11438,0,1,False
+77,Dongfang Garden B-1,10538,0,0,True
+78,Dongfang Jiayuan Building 15,10538,0,0,True
+79,Dongfang Jiayuan Building 16,10538,1,0,False
+82,Dongfeng Community 1,11639,1,1,True
+83,Dongfeng Community 2,11639,0,1,False
+88,Dongsheng Community Building 9,10638,1,0,False
+89,Dongxing Street No.50,10437,0,0,True
+91,Dongyuan East Area,11438,1,1,True
+92,Erdian Community,11338,1,1,True
+93,Fangzhi Jinchukou Dormitory,11338,0,1,False
+94,Fangzhi Road No.155 Building 2,10437,0,0,True
+95,Fangzhi Road No.155 Building 1,10437,0,0,True
+96,Feitian Family Quarters Building 2,10436,0,0,True
+100,Furong Garden Building 1,10638,0,0,True
+101,Fumen Xiangxielishe,10635,0,1,False
+102,Fuxingyuan Building 34,10538,0,0,True
+103,Fuxingyuan Building 40,10538,0,0,True
+104,Fuxingyuan Building 46,10538,0,0,True
+105,Fuxingyuan Building 49,10538,0,0,True
+106,Fuxingyuan Building 59,10538,0,0,True
+108,Fuli City No.1,11438,1,1,True
+109,Fuli City No.2,11438,0,1,False
+110,Fuli Jianianhua,11438,1,1,True
+111,Fuqiang Community,11842,0,0,True
+112,Fuyan Hotel,10536,0,0,True
+113,GreenTree Inn Hotel,11138,1,1,True
+114,Gengjiazhuang Residential Area Building 10,10436,0,0,True
+115,Gengjiazhuang Residential Area Building 11,10436,0,0,True
+116,Gengjiazhuang Residential Community Building 1,10436,0,0,True
+117,Gongnong Road Building 81,10437,0,0,True
+118,Gonghang Community,10635,0,1,False
+119,Gonganju Community,11138,0,0,True
+120,Gonglu Community 1,11338,1,1,True
+121,Gonglu Community 2,11338,0,1,False
+122,Gongdianju Community Building 20,10437,0,0,True
+125,Guangyuan Community 1,11842,0,1,False
+126,Guangyuan Community 2,11842,1,1,True
+127,Guangyuan Community 3,11842,0,1,False
+128,Guomai Aocheng 1,11537,1,1,True
+129,Guomai Aocheng 2,11537,1,1,True
+130,Guomai Aocheng 3,11537,1,1,True
+131,Guomai Aocheng 4,11537,1,1,True
+132,Guomai Aocheng 5,11637,1,1,True
+134,Guomai Aocheng 7,11537,1,1,True
+135,Guomai Aocheng 8,11537,0,1,False
+136,Guomai Aocheng 9,11537,1,1,True
+137,Hailongwan Building 6,11438,1,1,True
+138,Haitian Hotel 1,10536,0,0,True
+139,Haitian Hotel 2,10536,0,0,True
+142,Heping Street No.106,11138,1,0,False
+143,Hedong Community,11138,1,0,False
+144,Hexia Xincun,11438,1,1,True
+145,Hexia Xincun 10,11438,1,1,True
+151,Hengda Huafu,11138,1,1,True
+152,Hengda Xincheng Building 1,11438,0,1,False
+153,Hengda Xincheng Building 3,11438,0,1,False
+154,Hengda Xincheng Building 4,11438,1,1,True
+155,Honghe Community,11438,1,1,True
+161,Houwang Street Building 8,11338,0,1,False
+166,Huafa Xincheng Building 18,11041,0,1,False
+167,Huafu Mingdi 1,11538,1,1,True
+168,Huafu Mingdi 2,11538,1,1,True
+169,Huaxia Dijiu Garden,11740,1,1,True
+171,Huanbao Community,11338,1,1,True
+173,Huanghe Garden Building 12,10538,0,0,True
+174,Huanghe Garden Building 14,10538,0,0,True
+175,Huanghe Garden Building 30,10538,0,0,True
+176,Huanghe Garden Building 35,10538,0,0,True
+177,Huanghe Garden Building 37,10538,0,0,True
+178,Huanghe Garden Building 39,10538,0,0,True
+179,Huanghe Garden Building 41,10538,0,0,True
+180,Huanghe Garden Building 51,10538,0,0,True
+181,Huanghe Garden Building 53,10538,0,0,True
+182,Huanghe Garden Building 58,10538,0,0,True
+183,Huanghe Garden Building 59,10538,0,0,True
+184,Huanghe Garden Building 86,10538,0,0,True
+185,Huifeng Garden Building 12,10638,0,0,True
+186,Huifengyuan Court,11338,1,1,True
+187,Huihua College Dormitory Building 8,11438,1,1,True
+189,Huochang Road Community Building 122,10437,0,0,True
+190,Huochang Road Community Building 138,10437,0,0,True
+191,Huochang Road Community Building 96,10437,0,0,True
+192,Jixiang Ju,11138,1,0,False
+193,Jixiangyuan Court,11438,1,1,True
+194,Jixiang Meidi North Area,11338,1,1,True
+195,Jixiang Meidi South Area,11338,0,1,False
+196,Jishengju Family Building,11842,0,0,True
+197,Jiashuyuan (Family Quarters),11138,1,0,False
+198,Jiayuan Community Building 1,10638,0,0,True
+199,Jiayuan Community Building 20,10638,0,0,True
+200,Jiayuan Community Building 2,10638,1,0,False
+201,Jianchayuan Community,11338,1,1,True
+203,Jiangnan Shuixiang Area A Building 3,10638,1,0,False
+204,Jiangnan Shuixiang Area B Building 16,10638,0,0,True
+205,Jiangnan Shuixiang Area B Building 17,10638,1,1,True
+206,Jiangnan Shuixiang Area B Building 5,10638,0,1,False
+207,Jiaoyuju (Education Bureau),11138,1,1,True
+208,Jindi Jiajing Garden Factory Building,11438,0,1,False
+209,Jinhe Community,11538,1,1,True
+211,Jinlun Yiyuan Community Building 1,10436,0,0,True
+212,Jinlun Yiyuan Community Building G7,10436,0,0,True
+213,Jinrongjie Community,11741,0,1,False
+214,Jinxiu Huating,11842,1,0,False
+215,Jinxiuyuan 1,11339,1,1,True
+216,Jinxiuyuan 2,11339,0,1,False
+217,Jinze Yuan Old 6,11338,0,1,False
+218,Jinsong Xinjing,11338,1,1,True
+219,Jingdu Huayuan,11338,0,1,False
+220,Jinghuayuan Building 2,10638,1,0,False
+226,Ju'an Community Building 26,10436,1,0,False
+229,Junlei Alley,10635,0,1,False
+230,Kaiyue Hotel,10536,0,0,True
+231,Kangda Community,11438,1,1,True
+233,Kangmin Garden Building 11,10638,1,1,True
+234,Kangmin Garden Building 16,10638,0,1,False
+235,Kangmin Garden Building 8,10638,0,1,False
+236,Kemingyuan Court,11438,1,1,True
+237,Keyunzhan Family Quarters Building 1,10436,1,0,False
+238,Kongtong District Water and Soil Conservation Bureau,10736,0,0,True
+241,Lanshi Run'an Community Building 761,10436,1,0,False
+242,Lanshi Run'an Community Building 833,10436,1,0,False
+243,Lantian Jiayuan,10635,0,1,False
+244,Lantie Fuyuan Building 46,10436,0,0,True
+245,Lantie Fuyuan Community Building 47,10436,0,0,True
+246,Lantie Fuyuan Community Building 50,10436,0,0,True
+247,Lantie Xinle Community Building 45,10436,0,0,True
+248,Lantie Xinle Community Building 46,10436,0,0,True
+249,Lantie Xinle Community Building 48,10436,0,0,True
+250,Lantie Xinle Community Building 50,10436,0,0,True
+251,Lantie Xinle Community Building 60,10436,0,0,True
+252,Lanyuan Community,11640,1,1,True
+253,Lanzhou University Family Quarters Building 22,10436,1,0,False
+254,Lanzhou University Graduate Dormitory Building 4,10436,1,0,False
+255,Lanjun Lüdu Building 5,11438,1,1,True
+259,Liliu Residential Community,11138,1,1,True
+261,Lijinyuan Building 9,10638,1,0,False
+262,Lijingyuan Building 4,10538,0,0,True
+269,Lianhua Jiayuan,11138,1,1,True
+270,Liangcheng Yijing,11438,1,1,True
+271,Liang'erzhuang Community 1,11537,1,1,True
+272,Liang'erzhuang Community 2,11537,1,1,True
+273,Liang'erzhuang Community 3,11537,1,1,True
+274,Liang'erzhuang Community 4,11537,1,1,True
+275,Liang'erzhuang Community 5,11537,0,1,False
+276,Linhui Jiayuan Building 5,10638,0,0,True
+287,Liuhu Township Government Family Quarters,10736,0,0,True
+288,Longfeng Community,11138,1,0,False
+289,Longjuxuan Court,11138,1,1,True
+290,Longquan Garden East Area,11438,1,1,True
+294,Longting Jiayuan Building 3,10437,1,0,False
+295,Longting Jiayuan Building 7,10437,0,0,True
+297,Luoma Shijia,11138,1,1,True
+298,Luoyu Community 1,10635,0,0,True
+299,Luoyu Community 2,10635,1,1,True
+300,Luoyu Community 27,10635,0,1,False
+301,Luoyu Community 3,10635,0,1,False
+302,Meiyuan Community 1,11540,0,0,True
+303,Meiyuan Community 2,11540,0,0,True
+304,Meiyuan Community 3,11540,0,0,True
+305,Meidu Hotel,10237,0,0,True
+306,Meijing Huating,11138,1,0,False
+307,Meili Jiayuan 1,10237,0,0,True
+308,Meili Jiayuan 2,10237,0,0,True
+309,Meili City Garden Building 9,10538,0,0,True
+310,Meili Xincun Building 1,10538,0,0,True
+313,Meishu Shufa Chuangzuo Zhanshi Jidi,10436,0,0,True
+314,Minsheng Garden Building 2,10538,1,0,False
+315,Mingshi Haoting,11438,0,1,False
+316,Mingshi Gongguan,11438,1,1,True
+322,Mushan Community,11338,1,1,True
+323,Nanqiao Tingyuan Building 1,10638,0,0,True
+324,Nanyiyuan Court,11138,1,1,True
+325,Nanyuan Village Clinic,10237,0,0,True
+326,Nanyuan Xuefu,11438,1,1,True
+327,Nanzhuang Community No.2,11438,0,1,False
+328,Nanzhuang Community No.5,11438,0,1,False
+329,Nanzhuang Community No.7,11438,0,1,False
+330,Nanzhuangzi Village,10237,0,0,True
+331,Ningliyuan Court,10237,0,0,True
+332,Ningmeng Xiaozhen Building 1,11438,1,1,True
+333,Nuanquan Garden,10736,0,0,True
+334,Nuanquan Garden 2,10736,0,0,True
+336,Qile Jiayuan,11940,1,1,True
+337,Qixin Jiayuan,11538,1,1,True
+339,Qingyiyuan Court,10237,0,0,True
+340,Qingyuan Fengjing Building 26,10638,1,0,False
+341,Qingyuan Fengjing Building 28,10638,1,0,False
+342,Qingyuan Fengjing Building 33,10638,0,0,True
+343,Qingyuan Fengjing Building 25,10638,1,0,False
+345,Reli Company Building 1-1,11438,0,1,False
+348,Renhang Family Quarters,11138,1,1,True
+350,Home Inn,11338,1,1,True
+352,Sanbao Mansion,11640,1,1,True
+353,Sanqiaojie Community 16,11338,0,1,False
+354,Sanqiaojie Community 29,11338,0,1,False
+355,Sanqiaojie Community 9,11338,0,1,False
+356,Sanyuan Community Building 6,10436,0,0,True
+357,Sanyuan Community Building 8,10436,0,0,True
+359,Shannan Residential Community,10437,0,0,True
+360,Shanshui Longcheng,11138,1,1,True
+361,Shanyi Dayiyuan 1,11338,1,1,True
+362,Shanyi Dayiyuan 2,11338,1,1,True
+363,Shizijie Community Building 29,10437,1,0,False
+364,Shizijie Community Building 40,10437,1,0,False
+365,Shizijie Community Building 48,10437,1,0,False
+366,Provincial Construction Bank Family Quarters Building 1,10436,1,0,False
+367,Shengmusi Family Quarters Building 2,10436,0,0,True
+368,Shengshi Hua'an,11538,0,1,False
+369,Shengshi Longyuan,11741,0,1,False
+370,Shengshi Taoyuan,10635,0,1,False
+371,Shengshi Taoyuan 2,10635,1,1,True
+372,Shengxin Jiayuan,11538,1,1,True
+374,Shichengshu Building 10,10638,1,0,False
+375,Shichengshu Building 7,10638,1,1,True
+376,Shichengshu Phase II Building 3,10638,0,0,True
+377,Shichengshu Building 5,10638,0,0,True
+378,Shichengshu Building 1,10638,0,0,True
+380,Shiji Hongyuan Area II,11438,1,1,True
+381,Shiji Hongyuan Area II 10,11438,1,1,True
+382,Shiji Garden Area B 1,10736,0,0,True
+383,Shiji Garden Area B 2,10736,0,0,True
+384,Shiji Garden Area B 3,10736,0,0,True
+385,Shiji Garden Area C 1,10736,0,0,True
+386,Shiji Garden Area C 2,10736,0,0,True
+388,Shirensheju Community,11138,1,0,False
+389,Shiwei Dangxiao (Party School),10635,0,1,False
+390,Shiwei Shizhengfu Family Building,11138,1,0,False
+391,Shuxiang Huoguo,10536,0,0,True
+392,Shuangshuiwan Community,11338,1,1,True
+393,Shuangyiyuan Building 2,10638,0,0,True
+394,Shuangyiyuan Building 4,10638,0,0,True
+395,Shui'an Meijing Building 6,11438,1,1,True
+397,Shuidian Shejiyuan Family Quarters Building 3,10436,0,0,True
+398,Shuijingyuan Building 1,11438,0,1,False
+399,Shuijingyuan Building 4,11438,0,1,False
+401,Shuili Community,11338,1,1,True
+407,Siji Garden 1,11338,0,1,False
+408,Siji Garden 2,11338,1,1,True
+409,Siji Garden 3,11338,0,1,False
+410,Sijingyuan Court,11438,1,1,True
+411,Sinan Community Building 3,10638,1,0,False
+412,Sinan Community Building 4,10638,0,0,True
+415,Taihua Shucaiyuan,11138,1,0,False
+416,Tangjuyuan Area 2,11438,0,1,False
+417,Taoci Community Building 3,10738,1,0,False
+418,Tianli Garden Building 1,10538,1,0,False
+419,Tianli Garden Building 2,10538,1,0,False
+420,Tianli Garden Building 4,10538,1,0,False
+421,Tianlin Jinshuiwan,10635,0,1,False
+422,Tianquan Jiamei Building 1-2,11438,0,1,False
+423,Tianquan Jiamei Building 2,11438,0,1,False
+424,Tianrunyuan Community Building 1,10437,0,0,True
+425,Tianshui Road Community Building 1,10436,1,0,False
+426,Tianwei Hotel,10635,0,1,False
+427,Tielu Xincun Xinyuan Residential Community Building 1,10436,0,0,True
+428,Tielu Xincun Xinyuan Residential Community Building 2,10436,0,0,True
+438,Wanfu Jiayuan,11338,0,1,False
+439,Wanhe Huafu Building 6,11438,1,1,True
+440,Wanjia Yuan Community,11438,1,1,True
+441,Wansheng Garden,10437,0,0,True
+442,Wangxian West Road No.17,10437,0,0,True
+443,"Weichang Jiutai Construction and Installation Co., Ltd.",11842,0,1,False
+444,Weishengju Residential Building 2,10538,0,0,True
+445,Wenxinyuan Court,11338,1,1,True
+446,Wenfengyuan Court,11138,1,1,True
+447,Wenxingyuan Community Building 2 Unit 2,11338,1,1,True
+448,Wenxingyuan Community Building 3 Unit 2,11338,0,1,False
+449,Nameless,10635,0,1,False
+450,Nameless Community,10635,1,0,False
+451,Nameless Community 1,10635,1,1,True
+452,Nameless Community 2,10635,0,1,False
+453,Wutongyuan Court,11138,1,0,False
+454,Wuli Zhuangyuan Building 15,11438,1,1,True
+455,Wutan Community,11639,1,1,True
+456,Xi'an Community 1,11338,1,1,True
+457,Xi'an Community 2,11338,0,1,False
+458,Xi'an Community 3,11338,1,1,True
+459,Xi'an Community 1,11338,1,1,True
+460,Xi'an Community 2,11338,1,1,True
+461,Xi'an Community 3,11338,1,1,True
+462,Xicheng Fengjing Yideyuan 18,11438,0,1,False
+463,Xicheng Fengjing Yideyuan 20,11438,0,1,False
+464,Xicheng Fengjing Yideyuan 21,11438,0,1,False
+465,Xicheng Fengjing Yideyuan 30,11438,0,1,False
+466,Xicheng Fengjing Fengzeyuan,11438,0,1,False
+467,Xiguayuan Resettlement Building,10736,0,0,True
+468,Xiguan School Family Building 1,11438,0,1,False
+469,Xiguan School Family Building 2,11438,0,1,False
+470,Xiguan School Family Building 3,11438,1,1,True
+471,Xijingyuan Xinhu Gang,10736,0,0,True
+472,Xixing Community,10736,0,0,True
+473,Xixing Community 2,10736,0,0,True
+474,Xixing Community 3,10736,0,0,True
+475,Xia'an Village Resettlement Community,11138,1,1,True
+476,Modern City,11538,1,1,True
+477,Xianghe Jiayuan Building 28,10437,0,0,True
+478,Xianghe Jiayuan Building 2,10437,0,0,True
+479,Xianghe Community,11138,1,1,True
+480,Xianghe Community Building 1,10436,0,0,True
+484,Xiangning Jiayuan Building 1,11438,1,1,True
+486,Xiangyang Area A Building 1,10538,0,0,True
+487,Xiangyang Area A Building 5,10538,0,0,True
+488,Xiangyang Area B Building 1,10538,0,0,True
+490,Xiangyang Community Building 22,10538,1,0,False
+491,Xiaowang Community,11338,1,1,True
+492,Xiaolao Si Hotel,10536,0,0,True
+493,Xin'aocheng Area B Building 20,11438,0,1,False
+494,Xindi Yangguang Jiayuan Building 4,10437,0,0,True
+495,Xindi Yangguang Jiayuan Building 9,10437,0,0,True
+496,Xinfeng Road No.54-2,11741,1,0,False
+497,Xinhaiyuan Community,11939,1,0,False
+498,Xinhewan 1,10736,0,0,True
+499,Xinhewan 2,10736,0,0,True
+500,Xinhewan 3,10736,0,0,True
+501,Xinhewan 4,10736,0,0,True
+502,Xinhewan 5,10736,1,0,False
+503,Xinhewan 6,10736,0,0,True
+504,Xinhewan 7,10736,0,0,True
+505,Xinhewan 8,10736,0,0,True
+506,Xinhu Garden 1,10736,0,1,False
+507,Xinhu Garden 2,10736,0,0,True
+508,Xinhu Garden 3,10736,0,1,False
+509,Xinhu Garden 4,10736,0,1,False
+510,Xinhua Xinju,11438,1,1,True
+513,Xinleyuan No.16 Building 1,10436,0,0,True
+514,Xinleyuan Building 18,10436,0,0,True
+515,Xinleyuan Building 19,10436,0,0,True
+516,Xinmei Tiandi 1,11338,0,1,False
+517,Xinmei Tiandi 2,11338,0,1,False
+518,Xinshiji Garden Building 15,10437,0,0,True
+519,Xinshiji Garden Building 20,10437,0,0,True
+520,Xinshiji Garden Building 22,10437,0,0,True
+522,Xinyue Community Building 11,10638,1,0,False
+523,Xinyue Community Building 5,10638,0,0,True
+524,Xinyue Community Building 6,10638,1,0,False
+525,Xinyuan Community Building 29,10437,0,0,True
+526,Xinyuan Community Building 35,10437,0,0,True
+527,Xinyuan Community Building 36,10437,0,0,True
+528,Xinmei Jiayuan 3,11338,1,1,True
+529,Xingguang Garden Building 1,10638,0,1,False
+530,Xingguang Garden Building 4,10638,0,1,False
+531,Xingguanghua Residential Area B Building 12,10638,1,0,False
+532,Xingguanghua Residential Area B Building 14,10638,0,0,True
+533,Xingguanghua Residential Area B Building 15,10638,0,0,True
+534,Xing'anyuan 1,11339,1,1,True
+535,Xing'anyuan 2,11339,1,1,True
+536,Xingda Community 11,11338,1,1,True
+537,Xingda Community 12,11338,1,1,True
+538,Xingfu Jiayuan,11138,0,1,False
+539,Xiujunyuan 1,11338,0,1,False
+540,Xiujunyuan 2,11338,0,1,False
+541,Xiulinyuan Court,11438,1,1,True
+542,Xiulin Yuan Area A,11438,1,1,True
+543,Xuchan Gongsi Family Building,10638,1,0,False
+545,Yayuan Building 5,11438,1,1,True
+546,Yayuan Building 7,11438,1,1,True
+547,Yayuan Building 8,11438,1,1,True
+550,Yanzhu Gongyu,11438,1,1,True
+551,Yangguan Zhuzhai,11138,1,0,False
+552,Yangguang City Garden Building 1,11438,1,1,True
+553,Yangguang City Garden Building 8,11438,1,1,True
+554,Yangguang Garden Building 3,10538,1,0,False
+557,Yangguang Community 1,11338,1,1,True
+558,Yangguang Community 2,11338,0,1,False
+562,Yizhichuan South Street No.45,10436,1,0,False
+563,Yizhichuan South Street No.96 Family Quarters,10436,1,0,False
+564,Yixin Jiayuan Building 4,11538,1,0,False
+565,Yixinyuan Court,11137,1,0,False
+566,Ibis Hotel,10736,0,0,True
+567,Yijia Yuanshangyuan,11338,0,1,False
+568,Yicun Community Building 13,11338,1,1,True
+569,Yimin Xinqu (Resettlement Area),11339,1,1,True
+572,Yin'anyuan Building 15,10437,0,0,True
+573,Yin'anyuan Building 1,10437,1,0,False
+574,Yin'anyuan Building 9,10437,0,0,True
+577,Yintai Huafu Building 1-1,11438,1,1,True
+578,Yintai Huafu Building 1-2,11438,1,1,True
+579,Yintai Jiayuan West Area Building 12,11438,1,1,True
+580,Yingjieyuan Court,11138,1,1,True
+581,Yingbin No.1 Building 11,10538,0,0,True
+582,Yingbin No.1 Building 4,10538,0,0,True
+583,Yingbin No.1 Building 7,10538,0,0,True
+584,Yongfeng Street Building 24,10437,0,0,True
+585,Yongfeng Street Community Building 318,10437,0,0,True
+586,Yongfeng Street Community Building 322,10437,0,0,True
+587,Yongtai Xicheng Fengjing Building 6,11438,1,1,True
+588,Yongwang Jiayuan,11640,0,1,False
+589,Yongwang Jiayuan Area III,11640,1,1,True
+590,Yongxing Jiayuan Building 2,10638,0,1,False
+591,Youdian Community,11138,0,0,True
+592,Youhao Road Building 110,10437,0,0,True
+593,Youhao Road Building 116,10437,0,0,True
+594,Youhao Road Building 178,10437,1,0,False
+595,Youyi Street No.18 Block 31 Building,11041,0,1,False
+596,Youyi Street No.18 Block 49 Building,11041,0,1,False
+597,Youyi Street No.18 Block 50 Building,11041,0,1,False
+598,Youyi Street No.18 Block 61 Building,11041,0,1,False
+599,Youyi Street No.18 Block Fu 23 Building,11041,0,1,False
+604,Youyi Community North Area Building 15,11041,0,1,False
+605,Youyi Community North Area Building 38,11041,0,1,False
+606,Youyi Community North Area Building 39,11041,1,1,True
+607,Youyi Community North Area Building 91,11041,0,1,False
+608,Youyi Community North Area Building 92,11041,0,1,False
+609,Youyi Community South Area Building 12,11041,1,1,True
+610,Youyi Community South Area Building 20,11041,1,1,True
+611,Youyi Community South Area Building 25,11041,1,1,True
+612,Youyi Community South Area Building 36,11041,0,1,False
+613,Youse Jinshu Chukou Gongsi,10237,0,0,True
+614,Yudu Garden Building 4,10538,1,0,False
+615,Yudu Garden Building 6,10538,0,0,True
+616,Yudu Garden Building 8,10538,0,0,True
+617,Yucai Road Community,11538,1,1,True
+618,Yuhai Jiayuan,11740,1,1,True
+623,Yujing Huacheng Building 10,10538,0,0,True
+624,Yujing Huacheng Building 7,10538,0,0,True
+625,Yulongwan,11138,1,0,False
+627,Yunjinyuan Building 36,10437,0,0,True
+629,Yunxiang Community Building 2,10436,1,0,False
+630,Zhenbaoyuan Building 1,11438,0,1,False
+631,Zhenbaoyuan Building 2,11438,0,1,False
+632,Zhenbaoyuan Building 4,11438,1,1,True
+633,Zhenbaoyuan Building 5,11438,1,1,True
+634,Zhenbaoyuan Building 6,11438,0,1,False
+635,Zhengfeng Community Building 1,10638,0,1,False
+636,Zhengjiatai Community Building 3,10436,0,0,True
+637,Zhengfu Family Building,10538,0,0,True
+638,Zhijinyuan Court,10635,0,1,False
+639,Zhijinyuan 2,10635,0,1,False
+640,Zhicheng Huafu Building 10-1,11438,1,1,True
+641,Zhicheng Huafu Building 10-2,11438,0,1,False
+642,Zhicheng Huafu Building 7-1,11438,1,1,True
+643,Zhicheng Huafu Building 7-2,11438,0,1,False
+645,China Coal Museum Dormitory,11338,0,1,False
+646,Zhongguo Yisilanjiao Wenquan Tang,10436,0,0,True
+647,Zhonghe Yinjie,10536,0,0,True
+650,Zhongjing Garden,11338,1,1,True
+651,Central Park,11138,0,1,False
+653,Zhongyi Jiayuan Building 6,10538,1,0,False
+654,Ziruiyuan Building 2,10538,0,0,True
+655,Zuobiaocheng Area D 12,11438,1,1,True
+656,Zuobiaocheng Area D 8,11438,1,1,True

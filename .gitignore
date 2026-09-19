@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.streamlit/secrets.toml
+
+sparrow-scope/node_modules/
+sparrow-scope/.next/
+sparrow-scope/.vinext/
+sparrow-scope/.wrangler/
+sparrow-scope/dist/
+

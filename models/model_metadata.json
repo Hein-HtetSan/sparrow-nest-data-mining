@@ -1,0 +1,59 @@
+{
+  "features": [
+    "BuildingHeight",
+    "BuildingWidth",
+    "Altitude",
+    "AveNoise",
+    "temp",
+    "prec",
+    "win"
+  ],
+  "classification_target": "NestCount >= 5",
+  "regression_target": "NestCount",
+  "training_rows": 501,
+  "test_rows": 156,
+  "feature_ranges": {
+    "BuildingHeight": {
+      "min": 9.0,
+      "max": 110.0,
+      "median": 21.0
+    },
+    "BuildingWidth": {
+      "min": 6.0,
+      "max": 125.0,
+      "median": 50.0
+    },
+    "Altitude": {
+      "min": -12.0,
+      "max": 2328.0,
+      "median": 1040.0
+    },
+    "AveNoise": {
+      "min": 20.0,
+      "max": 85.0,
+      "median": 52.0
+    },
+    "temp": {
+      "min": 12.15,
+      "max": 20.48,
+      "median": 16.37
+    },
+    "prec": {
+      "min": 24.17,
+      "max": 86.17,
+      "median": 55.83
+    },
+    "win": {
+      "min": 1.68,
+      "max": 4.03,
+      "median": 2.47
+    }
+  },
+  "usage": "Educational prediction demo",
+  "limitations": [
+    "Data originate from China, not Myanmar.",
+    "Data do not measure breeding success.",
+    "Classification holdout ROC-AUC is approximately 0.505.",
+    "Regression performed worse than the mean baseline."
+  ]
+}
