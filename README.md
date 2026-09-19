@@ -5,7 +5,7 @@ This project analyzes 657 Eurasian Tree Sparrow building records from China. It 
 ## Live applications
 
 - Presentation website: [SparrowScope](https://sites-project.heinhtetsan33455.workers.dev)
-- Streamlit model lab: deployment in progress
+- Streamlit model lab: [Sparrow Cluster and Prediction Lab](https://sparrow-nest-data-mining.streamlit.app)
 
 ## PowerPoint
 
