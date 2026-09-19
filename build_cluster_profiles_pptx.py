@@ -147,6 +147,7 @@ textbox(slide, "Strongest contrasts", 0.8, 1.75, 4.0, 0.5, 22, GREEN, True)
 textbox(slide, "Cluster 1 combines very low altitude with the warmest and wettest conditions.\n\nCluster 3 combines the highest altitude with the coolest temperature and lowest wind.\n\nCluster 4 separates mainly through very tall buildings.", 0.8, 2.45, 5.5, 3.4, 19, INK)
 textbox(slide, "What the result supports", 7.0, 1.75, 4.3, 0.5, 22, GREEN, True)
 textbox(slide, "The profiles summarize similarity within the 501 training records. Nest differences are descriptive because NestCount did not form the clusters.\n\nSilhouette = 0.267 indicates overlap between groups. The clusters should not be presented as sharply separated natural classes or causal effects.", 7.0, 2.45, 5.2, 3.4, 19, INK)
-textbox(slide, "Presentation answer: K-means provides interpretable environmental profiles, but the modest silhouette requires cautious interpretation.", 0.8, 6.45, 11.7, 0.5, 16, WARM, True)
+textbox(slide, "K-means provides interpretable environmental profiles, but the modest silhouette requires cautious interpretation.", 0.8, 6.25, 11.7, 0.5, 16, WARM, True)
+textbox(slide, "Live model lab: https://sparrow-nest-data-mining.streamlit.app", 0.8, 6.72, 11.7, 0.35, 13, GREEN, True)
 
 prs.save(OUT / "Sparrow_Cluster_Profiles.pptx")
