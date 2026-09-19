@@ -22,7 +22,7 @@ This project analyzes 657 Eurasian Tree Sparrow building records from China. It 
 |---|---|
 | Presentation website | [Open SparrowScope](https://sites-project.heinhtetsan33455.workers.dev) |
 | Streamlit model lab | [Test the models](https://sparrow-nest-data-mining.streamlit.app) |
-| Project Book | [View Documentation](documentation/Eurasian_Tree_Sparrow_Data_Mining_Project.docx) |
+| Project book | [PDF](documentation/Eurasian_Tree_Sparrow_Data_Mining_Project.pdf) · [Word](documentation/Eurasian_Tree_Sparrow_Data_Mining_Project.docx) |
 | GitHub repository | [View source](https://github.com/Hein-HtetSan/sparrow-nest-data-mining) |
 
 ## Project Overview
